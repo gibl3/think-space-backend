@@ -1,0 +1,1362 @@
+[05-Dec-2024 11:28:28 Europe/Berlin] === New verification attempt ===
+[05-Dec-2024 11:28:28 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[05-Dec-2024 11:28:28 Europe/Berlin] Trying key: 3fd072dfa3805679f16fe41738c2a3ad3f90b214
+[05-Dec-2024 11:28:28 Europe/Berlin] Token verification error: Token verification failed for all keys
+[05-Dec-2024 11:30:06 Europe/Berlin] === New verification attempt ===
+[05-Dec-2024 11:30:06 Europe/Berlin] === Token Verification Details ===
+[05-Dec-2024 11:30:06 Europe/Berlin] Server time: 2024-12-05 11:30:06
+[05-Dec-2024 11:30:06 Europe/Berlin] Number of keys: 2
+[05-Dec-2024 11:30:06 Europe/Berlin] Token header: {"alg":"RS256","kid":"3fd072dfa3805679f16fe41738c2a3ad3f90b214","typ":"JWT"}
+[05-Dec-2024 11:30:06 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[05-Dec-2024 11:30:06 Europe/Berlin] Failed with key bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1: Signature verification failed
+[05-Dec-2024 11:30:06 Europe/Berlin] Trying key: 3fd072dfa3805679f16fe41738c2a3ad3f90b214
+[05-Dec-2024 11:30:06 Europe/Berlin] Token decoded successfully!
+[05-Dec-2024 11:30:06 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-05 12:30:06","iat":"2024-12-05 11:30:06"}
+[05-Dec-2024 11:30:17 Europe/Berlin] === New verification attempt ===
+[05-Dec-2024 11:30:17 Europe/Berlin] === Token Verification Details ===
+[05-Dec-2024 11:30:17 Europe/Berlin] Server time: 2024-12-05 11:30:17
+[05-Dec-2024 11:30:17 Europe/Berlin] Number of keys: 2
+[05-Dec-2024 11:30:17 Europe/Berlin] Token header: {"alg":"RS256","kid":"3fd072dfa3805679f16fe41738c2a3ad3f90b214","typ":"JWT"}
+[05-Dec-2024 11:30:17 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[05-Dec-2024 11:30:17 Europe/Berlin] Failed with key bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1: Signature verification failed
+[05-Dec-2024 11:30:17 Europe/Berlin] Trying key: 3fd072dfa3805679f16fe41738c2a3ad3f90b214
+[05-Dec-2024 11:30:17 Europe/Berlin] Failed with key 3fd072dfa3805679f16fe41738c2a3ad3f90b214: Cannot handle token with iat prior to 2024-12-05T11:30:18+0100
+[05-Dec-2024 11:30:17 Europe/Berlin] Token verification error: Token verification failed for all keys
+[05-Dec-2024 11:31:35 Europe/Berlin] === New verification attempt ===
+[05-Dec-2024 11:31:35 Europe/Berlin] === Token Verification Details ===
+[05-Dec-2024 11:31:35 Europe/Berlin] Server time: 2024-12-05 11:31:35
+[05-Dec-2024 11:31:35 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[05-Dec-2024 11:31:35 Europe/Berlin] Failed with key bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1: Signature verification failed
+[05-Dec-2024 11:31:35 Europe/Berlin] Trying key: 3fd072dfa3805679f16fe41738c2a3ad3f90b214
+[05-Dec-2024 11:31:35 Europe/Berlin] Token decoded successfully!
+[05-Dec-2024 11:31:35 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-05 12:31:36","iat":"2024-12-05 11:31:36"}
+[05-Dec-2024 11:31:43 Europe/Berlin] === New verification attempt ===
+[05-Dec-2024 11:31:43 Europe/Berlin] === Token Verification Details ===
+[05-Dec-2024 11:31:43 Europe/Berlin] Server time: 2024-12-05 11:31:43
+[05-Dec-2024 11:31:43 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[05-Dec-2024 11:31:43 Europe/Berlin] Failed with key bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1: Signature verification failed
+[05-Dec-2024 11:31:43 Europe/Berlin] Trying key: 3fd072dfa3805679f16fe41738c2a3ad3f90b214
+[05-Dec-2024 11:31:43 Europe/Berlin] Token decoded successfully!
+[05-Dec-2024 11:31:43 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-05 12:31:44","iat":"2024-12-05 11:31:44"}
+[05-Dec-2024 11:34:02 Europe/Berlin] === New verification attempt ===
+[05-Dec-2024 11:34:02 Europe/Berlin] === Token Verification Details ===
+[05-Dec-2024 11:34:02 Europe/Berlin] Server time: 2024-12-05 11:34:02
+[05-Dec-2024 11:34:02 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[05-Dec-2024 11:34:02 Europe/Berlin] Failed with key bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1: Signature verification failed
+[05-Dec-2024 11:34:02 Europe/Berlin] Trying key: 3fd072dfa3805679f16fe41738c2a3ad3f90b214
+[05-Dec-2024 11:34:02 Europe/Berlin] Token decoded successfully!
+[05-Dec-2024 11:34:02 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-05 12:34:03","iat":"2024-12-05 11:34:03"}
+[05-Dec-2024 12:42:40 Europe/Berlin] === New verification attempt ===
+[05-Dec-2024 12:42:41 Europe/Berlin] === Token Verification Details ===
+[05-Dec-2024 12:42:41 Europe/Berlin] Server time: 2024-12-05 12:42:41
+[05-Dec-2024 12:42:41 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[05-Dec-2024 12:42:41 Europe/Berlin] Failed with key bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1: Signature verification failed
+[05-Dec-2024 12:42:41 Europe/Berlin] Trying key: 3fd072dfa3805679f16fe41738c2a3ad3f90b214
+[05-Dec-2024 12:42:41 Europe/Berlin] Token decoded successfully!
+[05-Dec-2024 12:42:41 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-05 13:42:40","iat":"2024-12-05 12:42:40"}
+[05-Dec-2024 12:43:52 Europe/Berlin] === New verification attempt ===
+[05-Dec-2024 12:43:52 Europe/Berlin] === Token Verification Details ===
+[05-Dec-2024 12:43:52 Europe/Berlin] Server time: 2024-12-05 12:43:52
+[05-Dec-2024 12:43:52 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[05-Dec-2024 12:43:52 Europe/Berlin] Failed with key bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1: Signature verification failed
+[05-Dec-2024 12:43:52 Europe/Berlin] Trying key: 3fd072dfa3805679f16fe41738c2a3ad3f90b214
+[05-Dec-2024 12:43:52 Europe/Berlin] Token decoded successfully!
+[05-Dec-2024 12:43:52 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-05 13:43:53","iat":"2024-12-05 12:43:53"}
+[05-Dec-2024 12:55:06 Europe/Berlin] === New verification attempt ===
+[05-Dec-2024 12:55:06 Europe/Berlin] === Token Verification Details ===
+[05-Dec-2024 12:55:06 Europe/Berlin] Server time: 2024-12-05 12:55:06
+[05-Dec-2024 12:55:06 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[05-Dec-2024 12:55:06 Europe/Berlin] Failed with key bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1: Signature verification failed
+[05-Dec-2024 12:55:06 Europe/Berlin] Trying key: 3fd072dfa3805679f16fe41738c2a3ad3f90b214
+[05-Dec-2024 12:55:06 Europe/Berlin] Token decoded successfully!
+[05-Dec-2024 12:55:06 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-05 13:55:07","iat":"2024-12-05 12:55:07"}
+[05-Dec-2024 13:01:42 Europe/Berlin] === New verification attempt ===
+[05-Dec-2024 13:01:42 Europe/Berlin] === Token Verification Details ===
+[05-Dec-2024 13:01:42 Europe/Berlin] Server time: 2024-12-05 13:01:42
+[05-Dec-2024 13:01:42 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[05-Dec-2024 13:01:42 Europe/Berlin] Failed with key bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1: Signature verification failed
+[05-Dec-2024 13:01:42 Europe/Berlin] Trying key: 3fd072dfa3805679f16fe41738c2a3ad3f90b214
+[05-Dec-2024 13:01:42 Europe/Berlin] Token decoded successfully!
+[05-Dec-2024 13:01:42 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-05 14:01:43","iat":"2024-12-05 13:01:43"}
+[05-Dec-2024 13:04:09 Europe/Berlin] === New verification attempt ===
+[05-Dec-2024 13:04:09 Europe/Berlin] === Token Verification Details ===
+[05-Dec-2024 13:04:09 Europe/Berlin] Server time: 2024-12-05 13:04:09
+[05-Dec-2024 13:04:09 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[05-Dec-2024 13:04:09 Europe/Berlin] Failed with key bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1: Signature verification failed
+[05-Dec-2024 13:04:09 Europe/Berlin] Trying key: 3fd072dfa3805679f16fe41738c2a3ad3f90b214
+[05-Dec-2024 13:04:09 Europe/Berlin] Token decoded successfully!
+[05-Dec-2024 13:04:09 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-05 14:04:09","iat":"2024-12-05 13:04:09"}
+[05-Dec-2024 13:35:35 Europe/Berlin] === New verification attempt ===
+[05-Dec-2024 13:35:35 Europe/Berlin] === Token Verification Details ===
+[05-Dec-2024 13:35:35 Europe/Berlin] Server time: 2024-12-05 13:35:35
+[05-Dec-2024 13:35:35 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[05-Dec-2024 13:35:35 Europe/Berlin] Failed with key bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1: Signature verification failed
+[05-Dec-2024 13:35:35 Europe/Berlin] Trying key: 3fd072dfa3805679f16fe41738c2a3ad3f90b214
+[05-Dec-2024 13:35:35 Europe/Berlin] Token decoded successfully!
+[05-Dec-2024 13:35:35 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-05 14:35:35","iat":"2024-12-05 13:35:35"}
+[05-Dec-2024 14:17:21 Europe/Berlin] === New verification attempt ===
+[05-Dec-2024 14:17:22 Europe/Berlin] === Token Verification Details ===
+[05-Dec-2024 14:17:22 Europe/Berlin] Server time: 2024-12-05 14:17:22
+[05-Dec-2024 14:17:22 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[05-Dec-2024 14:17:22 Europe/Berlin] Failed with key bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1: Signature verification failed
+[05-Dec-2024 14:17:22 Europe/Berlin] Trying key: 3fd072dfa3805679f16fe41738c2a3ad3f90b214
+[05-Dec-2024 14:17:22 Europe/Berlin] Token decoded successfully!
+[05-Dec-2024 14:17:22 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-05 15:17:22","iat":"2024-12-05 14:17:22"}
+[05-Dec-2024 18:40:43 Europe/Berlin] === New verification attempt ===
+[05-Dec-2024 18:40:44 Europe/Berlin] === Token Verification Details ===
+[05-Dec-2024 18:40:44 Europe/Berlin] Server time: 2024-12-05 18:40:44
+[05-Dec-2024 18:40:44 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[05-Dec-2024 18:40:44 Europe/Berlin] Failed with key bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1: Signature verification failed
+[05-Dec-2024 18:40:44 Europe/Berlin] Trying key: 3fd072dfa3805679f16fe41738c2a3ad3f90b214
+[05-Dec-2024 18:40:44 Europe/Berlin] Token decoded successfully!
+[05-Dec-2024 18:40:44 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-05 19:40:43","iat":"2024-12-05 18:40:43"}
+[05-Dec-2024 19:36:03 Europe/Berlin] === New verification attempt ===
+[05-Dec-2024 19:36:03 Europe/Berlin] === Token Verification Details ===
+[05-Dec-2024 19:36:03 Europe/Berlin] Server time: 2024-12-05 19:36:03
+[05-Dec-2024 19:36:03 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[05-Dec-2024 19:36:03 Europe/Berlin] Failed with key bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1: Signature verification failed
+[05-Dec-2024 19:36:03 Europe/Berlin] Trying key: 3fd072dfa3805679f16fe41738c2a3ad3f90b214
+[05-Dec-2024 19:36:03 Europe/Berlin] Token decoded successfully!
+[05-Dec-2024 19:36:03 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-05 20:36:03","iat":"2024-12-05 19:36:03"}
+[06-Dec-2024 03:07:17 Europe/Berlin] === New verification attempt ===
+[06-Dec-2024 03:07:18 Europe/Berlin] === Token Verification Details ===
+[06-Dec-2024 03:07:18 Europe/Berlin] Server time: 2024-12-06 03:07:18
+[06-Dec-2024 03:07:18 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[06-Dec-2024 03:07:18 Europe/Berlin] Failed with key bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1: Signature verification failed
+[06-Dec-2024 03:07:18 Europe/Berlin] Trying key: 3fd072dfa3805679f16fe41738c2a3ad3f90b214
+[06-Dec-2024 03:07:18 Europe/Berlin] Token decoded successfully!
+[06-Dec-2024 03:07:18 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-06 04:07:18","iat":"2024-12-06 03:07:18"}
+[06-Dec-2024 04:22:07 Europe/Berlin] === New verification attempt ===
+[06-Dec-2024 04:22:08 Europe/Berlin] === Token Verification Details ===
+[06-Dec-2024 04:22:08 Europe/Berlin] Server time: 2024-12-06 04:22:08
+[06-Dec-2024 04:22:08 Europe/Berlin] Trying key: 3fd072dfa3805679f16fe41738c2a3ad3f90b214
+[06-Dec-2024 04:22:08 Europe/Berlin] Token decoded successfully!
+[06-Dec-2024 04:22:08 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-06 05:22:07","iat":"2024-12-06 04:22:07"}
+[06-Dec-2024 04:22:19 Europe/Berlin] === New verification attempt ===
+[06-Dec-2024 04:22:19 Europe/Berlin] === Token Verification Details ===
+[06-Dec-2024 04:22:19 Europe/Berlin] Server time: 2024-12-06 04:22:19
+[06-Dec-2024 04:22:19 Europe/Berlin] Trying key: 3fd072dfa3805679f16fe41738c2a3ad3f90b214
+[06-Dec-2024 04:22:19 Europe/Berlin] Token decoded successfully!
+[06-Dec-2024 04:22:19 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-06 05:22:20","iat":"2024-12-06 04:22:20"}
+[06-Dec-2024 04:22:34 Europe/Berlin] === New verification attempt ===
+[06-Dec-2024 04:22:34 Europe/Berlin] === Token Verification Details ===
+[06-Dec-2024 04:22:34 Europe/Berlin] Server time: 2024-12-06 04:22:34
+[06-Dec-2024 04:22:34 Europe/Berlin] Trying key: 3fd072dfa3805679f16fe41738c2a3ad3f90b214
+[06-Dec-2024 04:22:34 Europe/Berlin] Token decoded successfully!
+[06-Dec-2024 04:22:34 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-06 05:22:34","iat":"2024-12-06 04:22:34"}
+[06-Dec-2024 04:47:49 Europe/Berlin] === New verification attempt ===
+[06-Dec-2024 04:47:49 Europe/Berlin] === Token Verification Details ===
+[06-Dec-2024 04:47:49 Europe/Berlin] Server time: 2024-12-06 04:47:49
+[06-Dec-2024 04:47:49 Europe/Berlin] Trying key: 3fd072dfa3805679f16fe41738c2a3ad3f90b214
+[06-Dec-2024 04:47:49 Europe/Berlin] Token decoded successfully!
+[06-Dec-2024 04:47:49 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-06 05:47:49","iat":"2024-12-06 04:47:49"}
+[06-Dec-2024 05:06:29 Europe/Berlin] === New verification attempt ===
+[06-Dec-2024 05:06:29 Europe/Berlin] === Token Verification Details ===
+[06-Dec-2024 05:06:29 Europe/Berlin] Server time: 2024-12-06 05:06:29
+[06-Dec-2024 05:06:29 Europe/Berlin] Trying key: 3fd072dfa3805679f16fe41738c2a3ad3f90b214
+[06-Dec-2024 05:06:29 Europe/Berlin] Token decoded successfully!
+[06-Dec-2024 05:06:29 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-06 06:06:30","iat":"2024-12-06 05:06:30"}
+[06-Dec-2024 06:46:43 Europe/Berlin] === New verification attempt ===
+[06-Dec-2024 06:46:44 Europe/Berlin] === Token Verification Details ===
+[06-Dec-2024 06:46:44 Europe/Berlin] Server time: 2024-12-06 06:46:44
+[06-Dec-2024 06:46:44 Europe/Berlin] Trying key: 3fd072dfa3805679f16fe41738c2a3ad3f90b214
+[06-Dec-2024 06:46:44 Europe/Berlin] Token decoded successfully!
+[06-Dec-2024 06:46:44 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-06 07:46:44","iat":"2024-12-06 06:46:44"}
+[06-Dec-2024 06:46:57 Europe/Berlin] === New verification attempt ===
+[06-Dec-2024 06:46:57 Europe/Berlin] === Token Verification Details ===
+[06-Dec-2024 06:46:57 Europe/Berlin] Server time: 2024-12-06 06:46:57
+[06-Dec-2024 06:46:57 Europe/Berlin] Trying key: 3fd072dfa3805679f16fe41738c2a3ad3f90b214
+[06-Dec-2024 06:46:57 Europe/Berlin] Token decoded successfully!
+[06-Dec-2024 06:46:57 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-06 07:46:58","iat":"2024-12-06 06:46:58"}
+[06-Dec-2024 06:50:36 Europe/Berlin] === New verification attempt ===
+[06-Dec-2024 06:50:36 Europe/Berlin] === Token Verification Details ===
+[06-Dec-2024 06:50:36 Europe/Berlin] Server time: 2024-12-06 06:50:36
+[06-Dec-2024 06:50:36 Europe/Berlin] Trying key: 3fd072dfa3805679f16fe41738c2a3ad3f90b214
+[06-Dec-2024 06:50:36 Europe/Berlin] Token decoded successfully!
+[06-Dec-2024 06:50:36 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-06 07:50:37","iat":"2024-12-06 06:50:37"}
+[06-Dec-2024 09:32:58 Europe/Berlin] === New verification attempt ===
+[06-Dec-2024 09:32:59 Europe/Berlin] === Token Verification Details ===
+[06-Dec-2024 09:32:59 Europe/Berlin] Server time: 2024-12-06 09:32:59
+[06-Dec-2024 09:32:59 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[06-Dec-2024 09:32:59 Europe/Berlin] Failed with key bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1: Signature verification failed
+[06-Dec-2024 09:32:59 Europe/Berlin] Trying key: 3fd072dfa3805679f16fe41738c2a3ad3f90b214
+[06-Dec-2024 09:32:59 Europe/Berlin] Token decoded successfully!
+[06-Dec-2024 09:32:59 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-06 10:32:59","iat":"2024-12-06 09:32:59"}
+[06-Dec-2024 11:10:02 Europe/Berlin] === New verification attempt ===
+[06-Dec-2024 11:10:03 Europe/Berlin] === Token Verification Details ===
+[06-Dec-2024 11:10:03 Europe/Berlin] Server time: 2024-12-06 11:10:03
+[06-Dec-2024 11:10:03 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[06-Dec-2024 11:10:03 Europe/Berlin] Failed with key bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1: Signature verification failed
+[06-Dec-2024 11:10:03 Europe/Berlin] Trying key: 3fd072dfa3805679f16fe41738c2a3ad3f90b214
+[06-Dec-2024 11:10:03 Europe/Berlin] Token decoded successfully!
+[06-Dec-2024 11:10:03 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-06 12:10:04","iat":"2024-12-06 11:10:04"}
+[06-Dec-2024 14:35:19 Europe/Berlin] === New verification attempt ===
+[06-Dec-2024 14:35:20 Europe/Berlin] === Token Verification Details ===
+[06-Dec-2024 14:35:20 Europe/Berlin] Server time: 2024-12-06 14:35:20
+[06-Dec-2024 14:35:20 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[06-Dec-2024 14:35:20 Europe/Berlin] Failed with key bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1: Signature verification failed
+[06-Dec-2024 14:35:20 Europe/Berlin] Trying key: 3fd072dfa3805679f16fe41738c2a3ad3f90b214
+[06-Dec-2024 14:35:20 Europe/Berlin] Token decoded successfully!
+[06-Dec-2024 14:35:20 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-06 15:35:20","iat":"2024-12-06 14:35:20"}
+[06-Dec-2024 14:52:18 Europe/Berlin] === New verification attempt ===
+[06-Dec-2024 14:52:18 Europe/Berlin] === Token Verification Details ===
+[06-Dec-2024 14:52:18 Europe/Berlin] Server time: 2024-12-06 14:52:18
+[06-Dec-2024 14:52:18 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[06-Dec-2024 14:52:18 Europe/Berlin] Failed with key bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1: Signature verification failed
+[06-Dec-2024 14:52:18 Europe/Berlin] Trying key: 3fd072dfa3805679f16fe41738c2a3ad3f90b214
+[06-Dec-2024 14:52:18 Europe/Berlin] Token decoded successfully!
+[06-Dec-2024 14:52:18 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-06 15:52:19","iat":"2024-12-06 14:52:19"}
+[06-Dec-2024 15:59:17 Europe/Berlin] === New verification attempt ===
+[06-Dec-2024 15:59:18 Europe/Berlin] === Token Verification Details ===
+[06-Dec-2024 15:59:18 Europe/Berlin] Server time: 2024-12-06 15:59:18
+[06-Dec-2024 15:59:18 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[06-Dec-2024 15:59:18 Europe/Berlin] Failed with key bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1: Signature verification failed
+[06-Dec-2024 15:59:18 Europe/Berlin] Trying key: 3fd072dfa3805679f16fe41738c2a3ad3f90b214
+[06-Dec-2024 15:59:18 Europe/Berlin] Token decoded successfully!
+[06-Dec-2024 15:59:18 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-06 16:59:18","iat":"2024-12-06 15:59:18"}
+[06-Dec-2024 16:50:49 Europe/Berlin] === New verification attempt ===
+[06-Dec-2024 16:50:49 Europe/Berlin] === Token Verification Details ===
+[06-Dec-2024 16:50:49 Europe/Berlin] Server time: 2024-12-06 16:50:49
+[06-Dec-2024 16:50:49 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[06-Dec-2024 16:50:49 Europe/Berlin] Failed with key bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1: Signature verification failed
+[06-Dec-2024 16:50:49 Europe/Berlin] Trying key: 3fd072dfa3805679f16fe41738c2a3ad3f90b214
+[06-Dec-2024 16:50:49 Europe/Berlin] Token decoded successfully!
+[06-Dec-2024 16:50:49 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-06 17:50:50","iat":"2024-12-06 16:50:50"}
+[06-Dec-2024 17:28:28 Europe/Berlin] === New verification attempt ===
+[06-Dec-2024 17:28:28 Europe/Berlin] === Token Verification Details ===
+[06-Dec-2024 17:28:28 Europe/Berlin] Server time: 2024-12-06 17:28:28
+[06-Dec-2024 17:28:28 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[06-Dec-2024 17:28:28 Europe/Berlin] Failed with key bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1: Signature verification failed
+[06-Dec-2024 17:28:28 Europe/Berlin] Trying key: 3fd072dfa3805679f16fe41738c2a3ad3f90b214
+[06-Dec-2024 17:28:28 Europe/Berlin] Token decoded successfully!
+[06-Dec-2024 17:28:28 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-06 18:28:29","iat":"2024-12-06 17:28:29"}
+[06-Dec-2024 17:39:48 Europe/Berlin] === New verification attempt ===
+[06-Dec-2024 17:39:48 Europe/Berlin] === Token Verification Details ===
+[06-Dec-2024 17:39:48 Europe/Berlin] Server time: 2024-12-06 17:39:48
+[06-Dec-2024 17:39:48 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[06-Dec-2024 17:39:48 Europe/Berlin] Failed with key bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1: Signature verification failed
+[06-Dec-2024 17:39:48 Europe/Berlin] Trying key: 3fd072dfa3805679f16fe41738c2a3ad3f90b214
+[06-Dec-2024 17:39:48 Europe/Berlin] Token decoded successfully!
+[06-Dec-2024 17:39:48 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-06 18:39:49","iat":"2024-12-06 17:39:49"}
+[06-Dec-2024 17:56:01 Europe/Berlin] === New verification attempt ===
+[06-Dec-2024 17:56:01 Europe/Berlin] === Token Verification Details ===
+[06-Dec-2024 17:56:01 Europe/Berlin] Server time: 2024-12-06 17:56:01
+[06-Dec-2024 17:56:01 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[06-Dec-2024 17:56:01 Europe/Berlin] Failed with key bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1: Signature verification failed
+[06-Dec-2024 17:56:01 Europe/Berlin] Trying key: 3fd072dfa3805679f16fe41738c2a3ad3f90b214
+[06-Dec-2024 17:56:01 Europe/Berlin] Token decoded successfully!
+[06-Dec-2024 17:56:01 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-06 18:56:01","iat":"2024-12-06 17:56:01"}
+[06-Dec-2024 17:58:49 Europe/Berlin] === New verification attempt ===
+[06-Dec-2024 17:58:49 Europe/Berlin] === Token Verification Details ===
+[06-Dec-2024 17:58:49 Europe/Berlin] Server time: 2024-12-06 17:58:49
+[06-Dec-2024 17:58:49 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[06-Dec-2024 17:58:49 Europe/Berlin] Failed with key bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1: Signature verification failed
+[06-Dec-2024 17:58:49 Europe/Berlin] Trying key: 3fd072dfa3805679f16fe41738c2a3ad3f90b214
+[06-Dec-2024 17:58:49 Europe/Berlin] Token decoded successfully!
+[06-Dec-2024 17:58:49 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-06 18:58:50","iat":"2024-12-06 17:58:50"}
+[06-Dec-2024 18:01:27 Europe/Berlin] === New verification attempt ===
+[06-Dec-2024 18:01:27 Europe/Berlin] === Token Verification Details ===
+[06-Dec-2024 18:01:27 Europe/Berlin] Server time: 2024-12-06 18:01:27
+[06-Dec-2024 18:01:27 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[06-Dec-2024 18:01:27 Europe/Berlin] Failed with key bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1: Signature verification failed
+[06-Dec-2024 18:01:27 Europe/Berlin] Trying key: 3fd072dfa3805679f16fe41738c2a3ad3f90b214
+[06-Dec-2024 18:01:27 Europe/Berlin] Token decoded successfully!
+[06-Dec-2024 18:01:27 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-06 19:01:27","iat":"2024-12-06 18:01:27"}
+[06-Dec-2024 18:01:48 Europe/Berlin] === New verification attempt ===
+[06-Dec-2024 18:01:48 Europe/Berlin] === Token Verification Details ===
+[06-Dec-2024 18:01:48 Europe/Berlin] Server time: 2024-12-06 18:01:48
+[06-Dec-2024 18:01:48 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[06-Dec-2024 18:01:48 Europe/Berlin] Failed with key bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1: Signature verification failed
+[06-Dec-2024 18:01:48 Europe/Berlin] Trying key: 3fd072dfa3805679f16fe41738c2a3ad3f90b214
+[06-Dec-2024 18:01:48 Europe/Berlin] Token decoded successfully!
+[06-Dec-2024 18:01:48 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-06 19:01:49","iat":"2024-12-06 18:01:49"}
+[06-Dec-2024 18:02:13 Europe/Berlin] === New verification attempt ===
+[06-Dec-2024 18:02:13 Europe/Berlin] === Token Verification Details ===
+[06-Dec-2024 18:02:13 Europe/Berlin] Server time: 2024-12-06 18:02:13
+[06-Dec-2024 18:02:13 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[06-Dec-2024 18:02:13 Europe/Berlin] Failed with key bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1: Signature verification failed
+[06-Dec-2024 18:02:13 Europe/Berlin] Trying key: 3fd072dfa3805679f16fe41738c2a3ad3f90b214
+[06-Dec-2024 18:02:13 Europe/Berlin] Token decoded successfully!
+[06-Dec-2024 18:02:13 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-06 19:02:14","iat":"2024-12-06 18:02:14"}
+[06-Dec-2024 18:08:04 Europe/Berlin] === New verification attempt ===
+[06-Dec-2024 18:08:04 Europe/Berlin] === Token Verification Details ===
+[06-Dec-2024 18:08:04 Europe/Berlin] Server time: 2024-12-06 18:08:04
+[06-Dec-2024 18:08:04 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[06-Dec-2024 18:08:04 Europe/Berlin] Failed with key bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1: Signature verification failed
+[06-Dec-2024 18:08:04 Europe/Berlin] Trying key: 3fd072dfa3805679f16fe41738c2a3ad3f90b214
+[06-Dec-2024 18:08:04 Europe/Berlin] Token decoded successfully!
+[06-Dec-2024 18:08:04 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-06 19:08:05","iat":"2024-12-06 18:08:05"}
+[07-Dec-2024 02:50:17 Europe/Berlin] === New verification attempt ===
+[07-Dec-2024 02:50:18 Europe/Berlin] === Token Verification Details ===
+[07-Dec-2024 02:50:18 Europe/Berlin] Server time: 2024-12-07 02:50:18
+[07-Dec-2024 02:50:18 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[07-Dec-2024 02:50:18 Europe/Berlin] Failed with key bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1: Signature verification failed
+[07-Dec-2024 02:50:18 Europe/Berlin] Trying key: 3fd072dfa3805679f16fe41738c2a3ad3f90b214
+[07-Dec-2024 02:50:18 Europe/Berlin] Token decoded successfully!
+[07-Dec-2024 02:50:18 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-07 03:50:17","iat":"2024-12-07 02:50:17"}
+[07-Dec-2024 02:53:47 Europe/Berlin] === New verification attempt ===
+[07-Dec-2024 02:53:47 Europe/Berlin] === Token Verification Details ===
+[07-Dec-2024 02:53:47 Europe/Berlin] Server time: 2024-12-07 02:53:47
+[07-Dec-2024 02:53:47 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[07-Dec-2024 02:53:47 Europe/Berlin] Failed with key bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1: Signature verification failed
+[07-Dec-2024 02:53:47 Europe/Berlin] Trying key: 3fd072dfa3805679f16fe41738c2a3ad3f90b214
+[07-Dec-2024 02:53:47 Europe/Berlin] Token decoded successfully!
+[07-Dec-2024 02:53:48 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-07 03:53:48","iat":"2024-12-07 02:53:48"}
+[07-Dec-2024 02:58:51 Europe/Berlin] === New verification attempt ===
+[07-Dec-2024 02:58:51 Europe/Berlin] === Token Verification Details ===
+[07-Dec-2024 02:58:51 Europe/Berlin] Server time: 2024-12-07 02:58:51
+[07-Dec-2024 02:58:51 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[07-Dec-2024 02:58:51 Europe/Berlin] Failed with key bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1: Signature verification failed
+[07-Dec-2024 02:58:51 Europe/Berlin] Trying key: 3fd072dfa3805679f16fe41738c2a3ad3f90b214
+[07-Dec-2024 02:58:51 Europe/Berlin] Token decoded successfully!
+[07-Dec-2024 02:58:51 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-07 03:58:52","iat":"2024-12-07 02:58:52"}
+[07-Dec-2024 04:19:11 Europe/Berlin] === New verification attempt ===
+[07-Dec-2024 04:19:12 Europe/Berlin] === Token Verification Details ===
+[07-Dec-2024 04:19:12 Europe/Berlin] Server time: 2024-12-07 04:19:12
+[07-Dec-2024 04:19:12 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[07-Dec-2024 04:19:12 Europe/Berlin] Failed with key bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1: Signature verification failed
+[07-Dec-2024 04:19:12 Europe/Berlin] Trying key: 3fd072dfa3805679f16fe41738c2a3ad3f90b214
+[07-Dec-2024 04:19:12 Europe/Berlin] Token decoded successfully!
+[07-Dec-2024 04:19:12 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-07 05:19:12","iat":"2024-12-07 04:19:12"}
+[07-Dec-2024 05:49:25 Europe/Berlin] === New verification attempt ===
+[07-Dec-2024 05:49:26 Europe/Berlin] === Token Verification Details ===
+[07-Dec-2024 05:49:26 Europe/Berlin] Server time: 2024-12-07 05:49:26
+[07-Dec-2024 05:49:26 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[07-Dec-2024 05:49:26 Europe/Berlin] Failed with key bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1: Signature verification failed
+[07-Dec-2024 05:49:26 Europe/Berlin] Trying key: 3fd072dfa3805679f16fe41738c2a3ad3f90b214
+[07-Dec-2024 05:49:26 Europe/Berlin] Token decoded successfully!
+[07-Dec-2024 05:49:26 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-07 06:49:26","iat":"2024-12-07 05:49:26"}
+[07-Dec-2024 06:03:48 Europe/Berlin] === New verification attempt ===
+[07-Dec-2024 06:03:48 Europe/Berlin] === Token Verification Details ===
+[07-Dec-2024 06:03:48 Europe/Berlin] Server time: 2024-12-07 06:03:48
+[07-Dec-2024 06:03:48 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[07-Dec-2024 06:03:48 Europe/Berlin] Failed with key bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1: Signature verification failed
+[07-Dec-2024 06:03:48 Europe/Berlin] Trying key: 3fd072dfa3805679f16fe41738c2a3ad3f90b214
+[07-Dec-2024 06:03:48 Europe/Berlin] Token decoded successfully!
+[07-Dec-2024 06:03:48 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-07 07:03:48","iat":"2024-12-07 06:03:48"}
+[07-Dec-2024 07:51:34 Europe/Berlin] === New verification attempt ===
+[07-Dec-2024 07:51:35 Europe/Berlin] === Token Verification Details ===
+[07-Dec-2024 07:51:35 Europe/Berlin] Server time: 2024-12-07 07:51:35
+[07-Dec-2024 07:51:35 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[07-Dec-2024 07:51:35 Europe/Berlin] Failed with key bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1: Signature verification failed
+[07-Dec-2024 07:51:35 Europe/Berlin] Trying key: 3fd072dfa3805679f16fe41738c2a3ad3f90b214
+[07-Dec-2024 07:51:35 Europe/Berlin] Token decoded successfully!
+[07-Dec-2024 07:51:35 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-07 08:51:34","iat":"2024-12-07 07:51:34"}
+[07-Dec-2024 07:52:10 Europe/Berlin] === New verification attempt ===
+[07-Dec-2024 07:52:10 Europe/Berlin] === Token Verification Details ===
+[07-Dec-2024 07:52:10 Europe/Berlin] Server time: 2024-12-07 07:52:10
+[07-Dec-2024 07:52:10 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[07-Dec-2024 07:52:10 Europe/Berlin] Failed with key bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1: Signature verification failed
+[07-Dec-2024 07:52:10 Europe/Berlin] Trying key: 3fd072dfa3805679f16fe41738c2a3ad3f90b214
+[07-Dec-2024 07:52:10 Europe/Berlin] Token decoded successfully!
+[07-Dec-2024 07:52:10 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-07 08:52:11","iat":"2024-12-07 07:52:11"}
+[07-Dec-2024 07:52:29 Europe/Berlin] === New verification attempt ===
+[07-Dec-2024 07:52:29 Europe/Berlin] === Token Verification Details ===
+[07-Dec-2024 07:52:29 Europe/Berlin] Server time: 2024-12-07 07:52:29
+[07-Dec-2024 07:52:29 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[07-Dec-2024 07:52:29 Europe/Berlin] Failed with key bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1: Signature verification failed
+[07-Dec-2024 07:52:29 Europe/Berlin] Trying key: 3fd072dfa3805679f16fe41738c2a3ad3f90b214
+[07-Dec-2024 07:52:29 Europe/Berlin] Token decoded successfully!
+[07-Dec-2024 07:52:29 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-07 08:52:29","iat":"2024-12-07 07:52:29"}
+[09-Dec-2024 04:33:28 Europe/Berlin] === New verification attempt ===
+[09-Dec-2024 04:33:29 Europe/Berlin] === Token Verification Details ===
+[09-Dec-2024 04:33:29 Europe/Berlin] Server time: 2024-12-09 04:33:29
+[09-Dec-2024 04:33:29 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[09-Dec-2024 04:33:29 Europe/Berlin] Token decoded successfully!
+[09-Dec-2024 04:33:29 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-09 05:33:28","iat":"2024-12-09 04:33:28"}
+[09-Dec-2024 05:23:51 Europe/Berlin] === New verification attempt ===
+[09-Dec-2024 05:23:51 Europe/Berlin] === Token Verification Details ===
+[09-Dec-2024 05:23:51 Europe/Berlin] Server time: 2024-12-09 05:23:51
+[09-Dec-2024 05:23:51 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[09-Dec-2024 05:23:51 Europe/Berlin] Token decoded successfully!
+[09-Dec-2024 05:23:51 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-09 06:23:51","iat":"2024-12-09 05:23:51"}
+[09-Dec-2024 05:25:15 Europe/Berlin] === New verification attempt ===
+[09-Dec-2024 05:25:15 Europe/Berlin] === Token Verification Details ===
+[09-Dec-2024 05:25:15 Europe/Berlin] Server time: 2024-12-09 05:25:15
+[09-Dec-2024 05:25:15 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[09-Dec-2024 05:25:15 Europe/Berlin] Token decoded successfully!
+[09-Dec-2024 05:25:15 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-09 06:25:15","iat":"2024-12-09 05:25:15"}
+[09-Dec-2024 06:02:02 Europe/Berlin] === New verification attempt ===
+[09-Dec-2024 06:02:03 Europe/Berlin] === Token Verification Details ===
+[09-Dec-2024 06:02:03 Europe/Berlin] Server time: 2024-12-09 06:02:03
+[09-Dec-2024 06:02:03 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[09-Dec-2024 06:02:03 Europe/Berlin] Token decoded successfully!
+[09-Dec-2024 06:02:03 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-09 07:02:02","iat":"2024-12-09 06:02:02"}
+[09-Dec-2024 06:36:22 Europe/Berlin] === New verification attempt ===
+[09-Dec-2024 06:36:22 Europe/Berlin] === Token Verification Details ===
+[09-Dec-2024 06:36:22 Europe/Berlin] Server time: 2024-12-09 06:36:22
+[09-Dec-2024 06:36:22 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[09-Dec-2024 06:36:22 Europe/Berlin] Token decoded successfully!
+[09-Dec-2024 06:36:22 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-09 07:36:22","iat":"2024-12-09 06:36:22"}
+[09-Dec-2024 08:35:37 Europe/Berlin] === New verification attempt ===
+[09-Dec-2024 08:35:38 Europe/Berlin] === Token Verification Details ===
+[09-Dec-2024 08:35:38 Europe/Berlin] Server time: 2024-12-09 08:35:38
+[09-Dec-2024 08:35:38 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[09-Dec-2024 08:35:38 Europe/Berlin] Token decoded successfully!
+[09-Dec-2024 08:35:38 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-09 09:35:37","iat":"2024-12-09 08:35:37"}
+[09-Dec-2024 08:36:25 Europe/Berlin] === New verification attempt ===
+[09-Dec-2024 08:36:25 Europe/Berlin] === Token Verification Details ===
+[09-Dec-2024 08:36:25 Europe/Berlin] Server time: 2024-12-09 08:36:25
+[09-Dec-2024 08:36:25 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[09-Dec-2024 08:36:25 Europe/Berlin] Token decoded successfully!
+[09-Dec-2024 08:36:25 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-09 09:36:25","iat":"2024-12-09 08:36:25"}
+[09-Dec-2024 08:36:53 Europe/Berlin] === New verification attempt ===
+[09-Dec-2024 08:36:53 Europe/Berlin] === Token Verification Details ===
+[09-Dec-2024 08:36:53 Europe/Berlin] Server time: 2024-12-09 08:36:53
+[09-Dec-2024 08:36:53 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[09-Dec-2024 08:36:54 Europe/Berlin] Token decoded successfully!
+[09-Dec-2024 08:36:54 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-09 09:36:53","iat":"2024-12-09 08:36:53"}
+[09-Dec-2024 08:48:53 Europe/Berlin] === New verification attempt ===
+[09-Dec-2024 08:48:53 Europe/Berlin] === Token Verification Details ===
+[09-Dec-2024 08:48:53 Europe/Berlin] Server time: 2024-12-09 08:48:53
+[09-Dec-2024 08:48:53 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[09-Dec-2024 08:48:53 Europe/Berlin] Token decoded successfully!
+[09-Dec-2024 08:48:53 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-09 09:48:52","iat":"2024-12-09 08:48:52"}
+[09-Dec-2024 08:53:38 Europe/Berlin] === New verification attempt ===
+[09-Dec-2024 08:53:38 Europe/Berlin] === Token Verification Details ===
+[09-Dec-2024 08:53:38 Europe/Berlin] Server time: 2024-12-09 08:53:38
+[09-Dec-2024 08:53:38 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[09-Dec-2024 08:53:38 Europe/Berlin] Token decoded successfully!
+[09-Dec-2024 08:53:38 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-09 09:53:38","iat":"2024-12-09 08:53:38"}
+[09-Dec-2024 08:54:36 Europe/Berlin] === New verification attempt ===
+[09-Dec-2024 08:54:36 Europe/Berlin] === Token Verification Details ===
+[09-Dec-2024 08:54:36 Europe/Berlin] Server time: 2024-12-09 08:54:36
+[09-Dec-2024 08:54:36 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[09-Dec-2024 08:54:36 Europe/Berlin] Token decoded successfully!
+[09-Dec-2024 08:54:36 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-09 09:54:36","iat":"2024-12-09 08:54:36"}
+[09-Dec-2024 08:54:59 Europe/Berlin] === New verification attempt ===
+[09-Dec-2024 08:54:59 Europe/Berlin] === Token Verification Details ===
+[09-Dec-2024 08:54:59 Europe/Berlin] Server time: 2024-12-09 08:54:59
+[09-Dec-2024 08:54:59 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[09-Dec-2024 08:54:59 Europe/Berlin] Token decoded successfully!
+[09-Dec-2024 08:54:59 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-09 09:54:59","iat":"2024-12-09 08:54:59"}
+[09-Dec-2024 08:55:24 Europe/Berlin] === New verification attempt ===
+[09-Dec-2024 08:55:24 Europe/Berlin] === Token Verification Details ===
+[09-Dec-2024 08:55:24 Europe/Berlin] Server time: 2024-12-09 08:55:24
+[09-Dec-2024 08:55:24 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[09-Dec-2024 08:55:24 Europe/Berlin] Token decoded successfully!
+[09-Dec-2024 08:55:24 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-09 09:55:24","iat":"2024-12-09 08:55:24"}
+[09-Dec-2024 08:57:23 Europe/Berlin] === New verification attempt ===
+[09-Dec-2024 08:57:23 Europe/Berlin] === Token Verification Details ===
+[09-Dec-2024 08:57:23 Europe/Berlin] Server time: 2024-12-09 08:57:23
+[09-Dec-2024 08:57:23 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[09-Dec-2024 08:57:23 Europe/Berlin] Token decoded successfully!
+[09-Dec-2024 08:57:23 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-09 09:57:23","iat":"2024-12-09 08:57:23"}
+[09-Dec-2024 09:13:02 Europe/Berlin] === New verification attempt ===
+[09-Dec-2024 09:13:02 Europe/Berlin] === Token Verification Details ===
+[09-Dec-2024 09:13:02 Europe/Berlin] Server time: 2024-12-09 09:13:02
+[09-Dec-2024 09:13:02 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[09-Dec-2024 09:13:02 Europe/Berlin] Token decoded successfully!
+[09-Dec-2024 09:13:02 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-09 10:13:02","iat":"2024-12-09 09:13:02"}
+[09-Dec-2024 12:06:17 Europe/Berlin] === New verification attempt ===
+[09-Dec-2024 12:06:18 Europe/Berlin] === Token Verification Details ===
+[09-Dec-2024 12:06:18 Europe/Berlin] Server time: 2024-12-09 12:06:18
+[09-Dec-2024 12:06:18 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[09-Dec-2024 12:06:18 Europe/Berlin] Token decoded successfully!
+[09-Dec-2024 12:06:18 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-09 13:06:17","iat":"2024-12-09 12:06:17"}
+[09-Dec-2024 12:33:10 Europe/Berlin] === New verification attempt ===
+[09-Dec-2024 12:33:11 Europe/Berlin] === Token Verification Details ===
+[09-Dec-2024 12:33:11 Europe/Berlin] Server time: 2024-12-09 12:33:11
+[09-Dec-2024 12:33:11 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[09-Dec-2024 12:33:11 Europe/Berlin] Token decoded successfully!
+[09-Dec-2024 12:33:11 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-09 13:33:11","iat":"2024-12-09 12:33:11"}
+[09-Dec-2024 13:46:31 Europe/Berlin] === New verification attempt ===
+[09-Dec-2024 13:46:32 Europe/Berlin] === Token Verification Details ===
+[09-Dec-2024 13:46:32 Europe/Berlin] Server time: 2024-12-09 13:46:32
+[09-Dec-2024 13:46:32 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[09-Dec-2024 13:46:32 Europe/Berlin] Token decoded successfully!
+[09-Dec-2024 13:46:32 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-09 14:46:32","iat":"2024-12-09 13:46:32"}
+[09-Dec-2024 14:06:11 Europe/Berlin] === New verification attempt ===
+[09-Dec-2024 14:06:11 Europe/Berlin] === Token Verification Details ===
+[09-Dec-2024 14:06:11 Europe/Berlin] Server time: 2024-12-09 14:06:11
+[09-Dec-2024 14:06:11 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[09-Dec-2024 14:06:11 Europe/Berlin] Token decoded successfully!
+[09-Dec-2024 14:06:11 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-09 15:06:11","iat":"2024-12-09 14:06:11"}
+[09-Dec-2024 14:15:03 Europe/Berlin] === New verification attempt ===
+[09-Dec-2024 14:15:03 Europe/Berlin] === Token Verification Details ===
+[09-Dec-2024 14:15:03 Europe/Berlin] Server time: 2024-12-09 14:15:03
+[09-Dec-2024 14:15:03 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[09-Dec-2024 14:15:03 Europe/Berlin] Token decoded successfully!
+[09-Dec-2024 14:15:03 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-09 15:15:03","iat":"2024-12-09 14:15:03"}
+[09-Dec-2024 14:16:15 Europe/Berlin] === New verification attempt ===
+[09-Dec-2024 14:16:15 Europe/Berlin] === Token Verification Details ===
+[09-Dec-2024 14:16:15 Europe/Berlin] Server time: 2024-12-09 14:16:15
+[09-Dec-2024 14:16:15 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[09-Dec-2024 14:16:15 Europe/Berlin] Token decoded successfully!
+[09-Dec-2024 14:16:15 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-09 15:16:16","iat":"2024-12-09 14:16:16"}
+[09-Dec-2024 14:24:49 Europe/Berlin] === New verification attempt ===
+[09-Dec-2024 14:24:49 Europe/Berlin] === Token Verification Details ===
+[09-Dec-2024 14:24:49 Europe/Berlin] Server time: 2024-12-09 14:24:49
+[09-Dec-2024 14:24:49 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[09-Dec-2024 14:24:49 Europe/Berlin] Token decoded successfully!
+[09-Dec-2024 14:24:49 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-09 15:24:50","iat":"2024-12-09 14:24:50"}
+[09-Dec-2024 14:30:59 Europe/Berlin] === New verification attempt ===
+[09-Dec-2024 14:30:59 Europe/Berlin] === Token Verification Details ===
+[09-Dec-2024 14:30:59 Europe/Berlin] Server time: 2024-12-09 14:30:59
+[09-Dec-2024 14:30:59 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[09-Dec-2024 14:30:59 Europe/Berlin] Token decoded successfully!
+[09-Dec-2024 14:30:59 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-09 15:30:59","iat":"2024-12-09 14:30:59"}
+[09-Dec-2024 14:44:44 Europe/Berlin] === New verification attempt ===
+[09-Dec-2024 14:44:44 Europe/Berlin] === Token Verification Details ===
+[09-Dec-2024 14:44:44 Europe/Berlin] Server time: 2024-12-09 14:44:44
+[09-Dec-2024 14:44:44 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[09-Dec-2024 14:44:44 Europe/Berlin] Token decoded successfully!
+[09-Dec-2024 14:44:44 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-09 15:44:44","iat":"2024-12-09 14:44:44"}
+[09-Dec-2024 14:46:37 Europe/Berlin] === New verification attempt ===
+[09-Dec-2024 14:46:38 Europe/Berlin] === Token Verification Details ===
+[09-Dec-2024 14:46:38 Europe/Berlin] Server time: 2024-12-09 14:46:38
+[09-Dec-2024 14:46:38 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[09-Dec-2024 14:46:38 Europe/Berlin] Token decoded successfully!
+[09-Dec-2024 14:46:38 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-09 15:46:37","iat":"2024-12-09 14:46:37"}
+[09-Dec-2024 14:49:12 Europe/Berlin] === New verification attempt ===
+[09-Dec-2024 14:49:12 Europe/Berlin] === Token Verification Details ===
+[09-Dec-2024 14:49:12 Europe/Berlin] Server time: 2024-12-09 14:49:12
+[09-Dec-2024 14:49:12 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[09-Dec-2024 14:49:12 Europe/Berlin] Token decoded successfully!
+[09-Dec-2024 14:49:12 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-09 15:49:13","iat":"2024-12-09 14:49:13"}
+[09-Dec-2024 14:51:07 Europe/Berlin] === New verification attempt ===
+[09-Dec-2024 14:51:07 Europe/Berlin] === Token Verification Details ===
+[09-Dec-2024 14:51:07 Europe/Berlin] Server time: 2024-12-09 14:51:07
+[09-Dec-2024 14:51:07 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[09-Dec-2024 14:51:07 Europe/Berlin] Token decoded successfully!
+[09-Dec-2024 14:51:07 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-09 15:51:07","iat":"2024-12-09 14:51:07"}
+[09-Dec-2024 14:57:36 Europe/Berlin] === New verification attempt ===
+[09-Dec-2024 14:57:36 Europe/Berlin] === Token Verification Details ===
+[09-Dec-2024 14:57:36 Europe/Berlin] Server time: 2024-12-09 14:57:36
+[09-Dec-2024 14:57:36 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[09-Dec-2024 14:57:36 Europe/Berlin] Token decoded successfully!
+[09-Dec-2024 14:57:36 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-09 15:57:37","iat":"2024-12-09 14:57:37"}
+[09-Dec-2024 14:59:15 Europe/Berlin] === New verification attempt ===
+[09-Dec-2024 14:59:15 Europe/Berlin] === Token Verification Details ===
+[09-Dec-2024 14:59:15 Europe/Berlin] Server time: 2024-12-09 14:59:15
+[09-Dec-2024 14:59:15 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[09-Dec-2024 14:59:15 Europe/Berlin] Token decoded successfully!
+[09-Dec-2024 14:59:15 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-09 15:59:15","iat":"2024-12-09 14:59:15"}
+[09-Dec-2024 15:00:55 Europe/Berlin] === New verification attempt ===
+[09-Dec-2024 15:00:55 Europe/Berlin] === Token Verification Details ===
+[09-Dec-2024 15:00:55 Europe/Berlin] Server time: 2024-12-09 15:00:55
+[09-Dec-2024 15:00:55 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[09-Dec-2024 15:00:55 Europe/Berlin] Token decoded successfully!
+[09-Dec-2024 15:00:55 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-09 16:00:56","iat":"2024-12-09 15:00:56"}
+[09-Dec-2024 15:02:38 Europe/Berlin] === New verification attempt ===
+[09-Dec-2024 15:02:38 Europe/Berlin] === Token Verification Details ===
+[09-Dec-2024 15:02:38 Europe/Berlin] Server time: 2024-12-09 15:02:38
+[09-Dec-2024 15:02:38 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[09-Dec-2024 15:02:38 Europe/Berlin] Token decoded successfully!
+[09-Dec-2024 15:02:38 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-09 16:02:38","iat":"2024-12-09 15:02:38"}
+[09-Dec-2024 15:30:24 Europe/Berlin] === New verification attempt ===
+[09-Dec-2024 15:30:24 Europe/Berlin] === Token Verification Details ===
+[09-Dec-2024 15:30:24 Europe/Berlin] Server time: 2024-12-09 15:30:24
+[09-Dec-2024 15:30:24 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[09-Dec-2024 15:30:24 Europe/Berlin] Token decoded successfully!
+[09-Dec-2024 15:30:24 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-09 16:30:25","iat":"2024-12-09 15:30:25"}
+[09-Dec-2024 17:03:30 Europe/Berlin] === New verification attempt ===
+[09-Dec-2024 17:03:31 Europe/Berlin] === Token Verification Details ===
+[09-Dec-2024 17:03:31 Europe/Berlin] Server time: 2024-12-09 17:03:31
+[09-Dec-2024 17:03:31 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[09-Dec-2024 17:03:31 Europe/Berlin] Token decoded successfully!
+[09-Dec-2024 17:03:31 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-09 18:03:30","iat":"2024-12-09 17:03:30"}
+[09-Dec-2024 17:03:44 Europe/Berlin] === New verification attempt ===
+[09-Dec-2024 17:03:45 Europe/Berlin] === New verification attempt ===
+[09-Dec-2024 17:04:43 Europe/Berlin] === New verification attempt ===
+[09-Dec-2024 17:04:43 Europe/Berlin] === Token Verification Details ===
+[09-Dec-2024 17:04:43 Europe/Berlin] Server time: 2024-12-09 17:04:43
+[09-Dec-2024 17:04:43 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[09-Dec-2024 17:04:43 Europe/Berlin] Token decoded successfully!
+[09-Dec-2024 17:04:43 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-09 18:04:43","iat":"2024-12-09 17:04:43"}
+[09-Dec-2024 17:38:18 Europe/Berlin] === New verification attempt ===
+[09-Dec-2024 17:38:18 Europe/Berlin] === Token Verification Details ===
+[09-Dec-2024 17:38:18 Europe/Berlin] Server time: 2024-12-09 17:38:18
+[09-Dec-2024 17:38:18 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[09-Dec-2024 17:38:18 Europe/Berlin] Token decoded successfully!
+[09-Dec-2024 17:38:18 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-09 18:38:18","iat":"2024-12-09 17:38:18"}
+[09-Dec-2024 17:40:06 Europe/Berlin] === New verification attempt ===
+[09-Dec-2024 17:40:06 Europe/Berlin] === Token Verification Details ===
+[09-Dec-2024 17:40:06 Europe/Berlin] Server time: 2024-12-09 17:40:06
+[09-Dec-2024 17:40:06 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[09-Dec-2024 17:40:06 Europe/Berlin] Token decoded successfully!
+[09-Dec-2024 17:40:06 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-09 18:40:06","iat":"2024-12-09 17:40:06"}
+[09-Dec-2024 17:40:49 Europe/Berlin] === New verification attempt ===
+[09-Dec-2024 17:40:49 Europe/Berlin] === Token Verification Details ===
+[09-Dec-2024 17:40:49 Europe/Berlin] Server time: 2024-12-09 17:40:49
+[09-Dec-2024 17:40:49 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[09-Dec-2024 17:40:49 Europe/Berlin] Token decoded successfully!
+[09-Dec-2024 17:40:49 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-09 18:40:49","iat":"2024-12-09 17:40:49"}
+[09-Dec-2024 18:10:34 Europe/Berlin] === New verification attempt ===
+[09-Dec-2024 18:10:35 Europe/Berlin] === Token Verification Details ===
+[09-Dec-2024 18:10:35 Europe/Berlin] Server time: 2024-12-09 18:10:35
+[09-Dec-2024 18:10:35 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[09-Dec-2024 18:10:35 Europe/Berlin] Token decoded successfully!
+[09-Dec-2024 18:10:35 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-09 19:10:34","iat":"2024-12-09 18:10:34"}
+[09-Dec-2024 18:58:05 Europe/Berlin] === New verification attempt ===
+[09-Dec-2024 18:58:05 Europe/Berlin] === Token Verification Details ===
+[09-Dec-2024 18:58:05 Europe/Berlin] Server time: 2024-12-09 18:58:05
+[09-Dec-2024 18:58:05 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[09-Dec-2024 18:58:05 Europe/Berlin] Token decoded successfully!
+[09-Dec-2024 18:58:05 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-09 19:58:06","iat":"2024-12-09 18:58:06"}
+[09-Dec-2024 19:08:54 Europe/Berlin] === New verification attempt ===
+[09-Dec-2024 19:08:54 Europe/Berlin] === Token Verification Details ===
+[09-Dec-2024 19:08:54 Europe/Berlin] Server time: 2024-12-09 19:08:54
+[09-Dec-2024 19:08:54 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[09-Dec-2024 19:08:54 Europe/Berlin] Token decoded successfully!
+[09-Dec-2024 19:08:54 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-09 20:08:54","iat":"2024-12-09 19:08:54"}
+[09-Dec-2024 19:32:34 Europe/Berlin] === New verification attempt ===
+[09-Dec-2024 19:32:34 Europe/Berlin] === Token Verification Details ===
+[09-Dec-2024 19:32:34 Europe/Berlin] Server time: 2024-12-09 19:32:34
+[09-Dec-2024 19:32:34 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[09-Dec-2024 19:32:34 Europe/Berlin] Token decoded successfully!
+[09-Dec-2024 19:32:34 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-09 20:32:34","iat":"2024-12-09 19:32:34"}
+[09-Dec-2024 19:38:23 Europe/Berlin] === New verification attempt ===
+[09-Dec-2024 19:38:23 Europe/Berlin] === Token Verification Details ===
+[09-Dec-2024 19:38:23 Europe/Berlin] Server time: 2024-12-09 19:38:23
+[09-Dec-2024 19:38:23 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[09-Dec-2024 19:38:23 Europe/Berlin] Token decoded successfully!
+[09-Dec-2024 19:38:23 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-09 20:38:23","iat":"2024-12-09 19:38:23"}
+[09-Dec-2024 19:44:43 Europe/Berlin] === New verification attempt ===
+[09-Dec-2024 19:44:43 Europe/Berlin] === Token Verification Details ===
+[09-Dec-2024 19:44:43 Europe/Berlin] Server time: 2024-12-09 19:44:43
+[09-Dec-2024 19:44:43 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[09-Dec-2024 19:44:43 Europe/Berlin] Token decoded successfully!
+[09-Dec-2024 19:44:43 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-09 20:44:43","iat":"2024-12-09 19:44:43"}
+[09-Dec-2024 19:46:01 Europe/Berlin] === New verification attempt ===
+[09-Dec-2024 19:46:01 Europe/Berlin] === Token Verification Details ===
+[09-Dec-2024 19:46:01 Europe/Berlin] Server time: 2024-12-09 19:46:01
+[09-Dec-2024 19:46:01 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[09-Dec-2024 19:46:01 Europe/Berlin] Token decoded successfully!
+[09-Dec-2024 19:46:01 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-09 20:46:01","iat":"2024-12-09 19:46:01"}
+[09-Dec-2024 19:55:54 Europe/Berlin] === New verification attempt ===
+[09-Dec-2024 19:55:54 Europe/Berlin] === Token Verification Details ===
+[09-Dec-2024 19:55:54 Europe/Berlin] Server time: 2024-12-09 19:55:54
+[09-Dec-2024 19:55:54 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[09-Dec-2024 19:55:54 Europe/Berlin] Token decoded successfully!
+[09-Dec-2024 19:55:54 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-09 20:55:54","iat":"2024-12-09 19:55:54"}
+[09-Dec-2024 20:09:13 Europe/Berlin] === New verification attempt ===
+[09-Dec-2024 20:09:13 Europe/Berlin] === Token Verification Details ===
+[09-Dec-2024 20:09:13 Europe/Berlin] Server time: 2024-12-09 20:09:13
+[09-Dec-2024 20:09:13 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[09-Dec-2024 20:09:13 Europe/Berlin] Token decoded successfully!
+[09-Dec-2024 20:09:13 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-09 21:09:13","iat":"2024-12-09 20:09:13"}
+[09-Dec-2024 20:13:59 Europe/Berlin] === New verification attempt ===
+[09-Dec-2024 20:13:59 Europe/Berlin] === Token Verification Details ===
+[09-Dec-2024 20:13:59 Europe/Berlin] Server time: 2024-12-09 20:13:59
+[09-Dec-2024 20:13:59 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[09-Dec-2024 20:13:59 Europe/Berlin] Token decoded successfully!
+[09-Dec-2024 20:13:59 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-09 21:13:59","iat":"2024-12-09 20:13:59"}
+[09-Dec-2024 20:20:34 Europe/Berlin] === New verification attempt ===
+[09-Dec-2024 20:20:34 Europe/Berlin] === Token Verification Details ===
+[09-Dec-2024 20:20:34 Europe/Berlin] Server time: 2024-12-09 20:20:34
+[09-Dec-2024 20:20:34 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[09-Dec-2024 20:20:34 Europe/Berlin] Token decoded successfully!
+[09-Dec-2024 20:20:34 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-09 21:20:34","iat":"2024-12-09 20:20:34"}
+[09-Dec-2024 20:31:04 Europe/Berlin] === New verification attempt ===
+[09-Dec-2024 20:31:04 Europe/Berlin] === Token Verification Details ===
+[09-Dec-2024 20:31:04 Europe/Berlin] Server time: 2024-12-09 20:31:04
+[09-Dec-2024 20:31:04 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[09-Dec-2024 20:31:04 Europe/Berlin] Token decoded successfully!
+[09-Dec-2024 20:31:04 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-09 21:31:04","iat":"2024-12-09 20:31:04"}
+[09-Dec-2024 20:37:40 Europe/Berlin] === New verification attempt ===
+[09-Dec-2024 20:37:42 Europe/Berlin] === Token Verification Details ===
+[09-Dec-2024 20:37:42 Europe/Berlin] Server time: 2024-12-09 20:37:42
+[09-Dec-2024 20:37:42 Europe/Berlin] Trying key: 3fd072dfa3805679f16fe41738c2a3ad3f90b214
+[09-Dec-2024 20:37:42 Europe/Berlin] Failed with key 3fd072dfa3805679f16fe41738c2a3ad3f90b214: Signature verification failed
+[09-Dec-2024 20:37:42 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[09-Dec-2024 20:37:42 Europe/Berlin] Token decoded successfully!
+[09-Dec-2024 20:37:42 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-09 21:37:40","iat":"2024-12-09 20:37:40"}
+[09-Dec-2024 20:47:11 Europe/Berlin] === New verification attempt ===
+[09-Dec-2024 20:47:11 Europe/Berlin] === Token Verification Details ===
+[09-Dec-2024 20:47:11 Europe/Berlin] Server time: 2024-12-09 20:47:11
+[09-Dec-2024 20:47:11 Europe/Berlin] Trying key: 3fd072dfa3805679f16fe41738c2a3ad3f90b214
+[09-Dec-2024 20:47:11 Europe/Berlin] Failed with key 3fd072dfa3805679f16fe41738c2a3ad3f90b214: Signature verification failed
+[09-Dec-2024 20:47:11 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[09-Dec-2024 20:47:11 Europe/Berlin] Token decoded successfully!
+[09-Dec-2024 20:47:11 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-09 21:47:11","iat":"2024-12-09 20:47:11"}
+[09-Dec-2024 20:58:46 Europe/Berlin] === New verification attempt ===
+[09-Dec-2024 20:58:46 Europe/Berlin] === Token Verification Details ===
+[09-Dec-2024 20:58:46 Europe/Berlin] Server time: 2024-12-09 20:58:46
+[09-Dec-2024 20:58:46 Europe/Berlin] Trying key: 3fd072dfa3805679f16fe41738c2a3ad3f90b214
+[09-Dec-2024 20:58:46 Europe/Berlin] Failed with key 3fd072dfa3805679f16fe41738c2a3ad3f90b214: Signature verification failed
+[09-Dec-2024 20:58:46 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[09-Dec-2024 20:58:46 Europe/Berlin] Token decoded successfully!
+[09-Dec-2024 20:58:46 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-09 21:58:46","iat":"2024-12-09 20:58:46"}
+[09-Dec-2024 21:16:06 Europe/Berlin] === New verification attempt ===
+[09-Dec-2024 21:16:06 Europe/Berlin] === Token Verification Details ===
+[09-Dec-2024 21:16:06 Europe/Berlin] Server time: 2024-12-09 21:16:06
+[09-Dec-2024 21:16:06 Europe/Berlin] Trying key: 3fd072dfa3805679f16fe41738c2a3ad3f90b214
+[09-Dec-2024 21:16:06 Europe/Berlin] Failed with key 3fd072dfa3805679f16fe41738c2a3ad3f90b214: Signature verification failed
+[09-Dec-2024 21:16:06 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[09-Dec-2024 21:16:06 Europe/Berlin] Token decoded successfully!
+[09-Dec-2024 21:16:06 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-09 22:16:06","iat":"2024-12-09 21:16:06"}
+[09-Dec-2024 21:26:00 Europe/Berlin] === New verification attempt ===
+[09-Dec-2024 21:26:00 Europe/Berlin] === Token Verification Details ===
+[09-Dec-2024 21:26:00 Europe/Berlin] Server time: 2024-12-09 21:26:00
+[09-Dec-2024 21:26:00 Europe/Berlin] Trying key: 3fd072dfa3805679f16fe41738c2a3ad3f90b214
+[09-Dec-2024 21:26:00 Europe/Berlin] Failed with key 3fd072dfa3805679f16fe41738c2a3ad3f90b214: Signature verification failed
+[09-Dec-2024 21:26:00 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[09-Dec-2024 21:26:00 Europe/Berlin] Token decoded successfully!
+[09-Dec-2024 21:26:00 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-09 22:25:59","iat":"2024-12-09 21:25:59"}
+[09-Dec-2024 21:29:28 Europe/Berlin] === New verification attempt ===
+[09-Dec-2024 21:29:28 Europe/Berlin] === Token Verification Details ===
+[09-Dec-2024 21:29:28 Europe/Berlin] Server time: 2024-12-09 21:29:28
+[09-Dec-2024 21:29:28 Europe/Berlin] Trying key: 3fd072dfa3805679f16fe41738c2a3ad3f90b214
+[09-Dec-2024 21:29:28 Europe/Berlin] Failed with key 3fd072dfa3805679f16fe41738c2a3ad3f90b214: Signature verification failed
+[09-Dec-2024 21:29:28 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[09-Dec-2024 21:29:28 Europe/Berlin] Token decoded successfully!
+[09-Dec-2024 21:29:28 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-09 22:29:28","iat":"2024-12-09 21:29:28"}
+[09-Dec-2024 21:35:55 Europe/Berlin] === New verification attempt ===
+[09-Dec-2024 21:35:55 Europe/Berlin] === Token Verification Details ===
+[09-Dec-2024 21:35:55 Europe/Berlin] Server time: 2024-12-09 21:35:55
+[09-Dec-2024 21:35:55 Europe/Berlin] Trying key: 3fd072dfa3805679f16fe41738c2a3ad3f90b214
+[09-Dec-2024 21:35:55 Europe/Berlin] Failed with key 3fd072dfa3805679f16fe41738c2a3ad3f90b214: Signature verification failed
+[09-Dec-2024 21:35:55 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[09-Dec-2024 21:35:55 Europe/Berlin] Token decoded successfully!
+[09-Dec-2024 21:35:55 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-09 22:35:55","iat":"2024-12-09 21:35:55"}
+[09-Dec-2024 21:37:31 Europe/Berlin] === New verification attempt ===
+[09-Dec-2024 21:37:31 Europe/Berlin] === Token Verification Details ===
+[09-Dec-2024 21:37:31 Europe/Berlin] Server time: 2024-12-09 21:37:31
+[09-Dec-2024 21:37:31 Europe/Berlin] Trying key: 3fd072dfa3805679f16fe41738c2a3ad3f90b214
+[09-Dec-2024 21:37:31 Europe/Berlin] Failed with key 3fd072dfa3805679f16fe41738c2a3ad3f90b214: Signature verification failed
+[09-Dec-2024 21:37:31 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[09-Dec-2024 21:37:31 Europe/Berlin] Token decoded successfully!
+[09-Dec-2024 21:37:31 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-09 22:37:31","iat":"2024-12-09 21:37:31"}
+[09-Dec-2024 21:38:30 Europe/Berlin] === New verification attempt ===
+[09-Dec-2024 21:38:31 Europe/Berlin] === Token Verification Details ===
+[09-Dec-2024 21:38:31 Europe/Berlin] Server time: 2024-12-09 21:38:31
+[09-Dec-2024 21:38:31 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[09-Dec-2024 21:38:31 Europe/Berlin] Token decoded successfully!
+[09-Dec-2024 21:38:31 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-09 22:38:30","iat":"2024-12-09 21:38:30"}
+[09-Dec-2024 21:39:48 Europe/Berlin] === New verification attempt ===
+[09-Dec-2024 21:39:48 Europe/Berlin] === Token Verification Details ===
+[09-Dec-2024 21:39:48 Europe/Berlin] Server time: 2024-12-09 21:39:48
+[09-Dec-2024 21:39:48 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[09-Dec-2024 21:39:48 Europe/Berlin] Token decoded successfully!
+[09-Dec-2024 21:39:48 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-09 22:39:48","iat":"2024-12-09 21:39:48"}
+[09-Dec-2024 21:44:50 Europe/Berlin] === New verification attempt ===
+[09-Dec-2024 21:44:50 Europe/Berlin] === Token Verification Details ===
+[09-Dec-2024 21:44:50 Europe/Berlin] Server time: 2024-12-09 21:44:50
+[09-Dec-2024 21:44:50 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[09-Dec-2024 21:44:50 Europe/Berlin] Token decoded successfully!
+[09-Dec-2024 21:44:50 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-09 22:44:50","iat":"2024-12-09 21:44:50"}
+[10-Dec-2024 03:04:13 Europe/Berlin] === New verification attempt ===
+[10-Dec-2024 03:04:14 Europe/Berlin] === Token Verification Details ===
+[10-Dec-2024 03:04:14 Europe/Berlin] Server time: 2024-12-10 03:04:14
+[10-Dec-2024 03:04:14 Europe/Berlin] Trying key: 1aac271099049c0dfc058e0612f08d06c30a0415
+[10-Dec-2024 03:04:14 Europe/Berlin] Failed with key 1aac271099049c0dfc058e0612f08d06c30a0415: Signature verification failed
+[10-Dec-2024 03:04:14 Europe/Berlin] Trying key: 3fd072dfa3805679f16fe41738c2a3ad3f90b214
+[10-Dec-2024 03:04:14 Europe/Berlin] Failed with key 3fd072dfa3805679f16fe41738c2a3ad3f90b214: Signature verification failed
+[10-Dec-2024 03:04:14 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[10-Dec-2024 03:04:14 Europe/Berlin] Token decoded successfully!
+[10-Dec-2024 03:04:14 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-10 04:04:15","iat":"2024-12-10 03:04:15"}
+[10-Dec-2024 03:43:28 Europe/Berlin] === New verification attempt ===
+[10-Dec-2024 03:43:28 Europe/Berlin] === Token Verification Details ===
+[10-Dec-2024 03:43:28 Europe/Berlin] Server time: 2024-12-10 03:43:28
+[10-Dec-2024 03:43:28 Europe/Berlin] Trying key: 1aac271099049c0dfc058e0612f08d06c30a0415
+[10-Dec-2024 03:43:28 Europe/Berlin] Failed with key 1aac271099049c0dfc058e0612f08d06c30a0415: Signature verification failed
+[10-Dec-2024 03:43:28 Europe/Berlin] Trying key: 3fd072dfa3805679f16fe41738c2a3ad3f90b214
+[10-Dec-2024 03:43:28 Europe/Berlin] Failed with key 3fd072dfa3805679f16fe41738c2a3ad3f90b214: Signature verification failed
+[10-Dec-2024 03:43:28 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[10-Dec-2024 03:43:28 Europe/Berlin] Token decoded successfully!
+[10-Dec-2024 03:43:28 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-10 04:43:29","iat":"2024-12-10 03:43:29"}
+[10-Dec-2024 03:57:13 Europe/Berlin] === New verification attempt ===
+[10-Dec-2024 03:57:13 Europe/Berlin] === Token Verification Details ===
+[10-Dec-2024 03:57:13 Europe/Berlin] Server time: 2024-12-10 03:57:13
+[10-Dec-2024 03:57:13 Europe/Berlin] Trying key: 1aac271099049c0dfc058e0612f08d06c30a0415
+[10-Dec-2024 03:57:13 Europe/Berlin] Failed with key 1aac271099049c0dfc058e0612f08d06c30a0415: Signature verification failed
+[10-Dec-2024 03:57:13 Europe/Berlin] Trying key: 3fd072dfa3805679f16fe41738c2a3ad3f90b214
+[10-Dec-2024 03:57:13 Europe/Berlin] Failed with key 3fd072dfa3805679f16fe41738c2a3ad3f90b214: Signature verification failed
+[10-Dec-2024 03:57:13 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[10-Dec-2024 03:57:13 Europe/Berlin] Token decoded successfully!
+[10-Dec-2024 03:57:13 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-10 04:57:14","iat":"2024-12-10 03:57:14"}
+[10-Dec-2024 05:09:02 Europe/Berlin] === New verification attempt ===
+[10-Dec-2024 05:09:02 Europe/Berlin] === Token Verification Details ===
+[10-Dec-2024 05:09:02 Europe/Berlin] Server time: 2024-12-10 05:09:02
+[10-Dec-2024 05:09:02 Europe/Berlin] Trying key: 1aac271099049c0dfc058e0612f08d06c30a0415
+[10-Dec-2024 05:09:02 Europe/Berlin] Failed with key 1aac271099049c0dfc058e0612f08d06c30a0415: Signature verification failed
+[10-Dec-2024 05:09:02 Europe/Berlin] Trying key: 3fd072dfa3805679f16fe41738c2a3ad3f90b214
+[10-Dec-2024 05:09:02 Europe/Berlin] Failed with key 3fd072dfa3805679f16fe41738c2a3ad3f90b214: Signature verification failed
+[10-Dec-2024 05:09:02 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[10-Dec-2024 05:09:02 Europe/Berlin] Token decoded successfully!
+[10-Dec-2024 05:09:02 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-10 06:09:03","iat":"2024-12-10 05:09:03"}
+[10-Dec-2024 06:17:37 Europe/Berlin] === New verification attempt ===
+[10-Dec-2024 06:17:38 Europe/Berlin] === Token Verification Details ===
+[10-Dec-2024 06:17:38 Europe/Berlin] Server time: 2024-12-10 06:17:38
+[10-Dec-2024 06:17:38 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[10-Dec-2024 06:17:38 Europe/Berlin] Token decoded successfully!
+[10-Dec-2024 06:17:38 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-10 07:17:38","iat":"2024-12-10 06:17:38"}
+[10-Dec-2024 08:00:38 Europe/Berlin] === New verification attempt ===
+[10-Dec-2024 08:00:39 Europe/Berlin] === Token Verification Details ===
+[10-Dec-2024 08:00:39 Europe/Berlin] Server time: 2024-12-10 08:00:39
+[10-Dec-2024 08:00:39 Europe/Berlin] Trying key: 1aac271099049c0dfc058e0612f08d06c30a0415
+[10-Dec-2024 08:00:39 Europe/Berlin] Failed with key 1aac271099049c0dfc058e0612f08d06c30a0415: Signature verification failed
+[10-Dec-2024 08:00:39 Europe/Berlin] Trying key: 3fd072dfa3805679f16fe41738c2a3ad3f90b214
+[10-Dec-2024 08:00:39 Europe/Berlin] Failed with key 3fd072dfa3805679f16fe41738c2a3ad3f90b214: Signature verification failed
+[10-Dec-2024 08:00:39 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[10-Dec-2024 08:00:39 Europe/Berlin] Token decoded successfully!
+[10-Dec-2024 08:00:39 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-10 09:00:39","iat":"2024-12-10 08:00:39"}
+[10-Dec-2024 10:32:39 Europe/Berlin] === New verification attempt ===
+[10-Dec-2024 10:32:40 Europe/Berlin] === Token Verification Details ===
+[10-Dec-2024 10:32:40 Europe/Berlin] Server time: 2024-12-10 10:32:40
+[10-Dec-2024 10:32:40 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[10-Dec-2024 10:32:40 Europe/Berlin] Token decoded successfully!
+[10-Dec-2024 10:32:40 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-10 11:32:40","iat":"2024-12-10 10:32:40"}
+[10-Dec-2024 10:36:08 Europe/Berlin] === New verification attempt ===
+[10-Dec-2024 10:36:08 Europe/Berlin] === Token Verification Details ===
+[10-Dec-2024 10:36:08 Europe/Berlin] Server time: 2024-12-10 10:36:08
+[10-Dec-2024 10:36:08 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[10-Dec-2024 10:36:08 Europe/Berlin] Token decoded successfully!
+[10-Dec-2024 10:36:08 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-10 11:36:09","iat":"2024-12-10 10:36:09"}
+[10-Dec-2024 10:47:19 Europe/Berlin] === New verification attempt ===
+[10-Dec-2024 10:47:19 Europe/Berlin] === Token Verification Details ===
+[10-Dec-2024 10:47:19 Europe/Berlin] Server time: 2024-12-10 10:47:19
+[10-Dec-2024 10:47:19 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[10-Dec-2024 10:47:19 Europe/Berlin] Token decoded successfully!
+[10-Dec-2024 10:47:19 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-10 11:47:20","iat":"2024-12-10 10:47:20"}
+[10-Dec-2024 10:47:29 Europe/Berlin] === New verification attempt ===
+[10-Dec-2024 10:47:29 Europe/Berlin] === Token Verification Details ===
+[10-Dec-2024 10:47:29 Europe/Berlin] Server time: 2024-12-10 10:47:29
+[10-Dec-2024 10:47:29 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[10-Dec-2024 10:47:29 Europe/Berlin] Token decoded successfully!
+[10-Dec-2024 10:47:29 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-10 11:47:30","iat":"2024-12-10 10:47:30"}
+[10-Dec-2024 11:50:26 Europe/Berlin] === New verification attempt ===
+[10-Dec-2024 11:50:27 Europe/Berlin] === Token Verification Details ===
+[10-Dec-2024 11:50:27 Europe/Berlin] Server time: 2024-12-10 11:50:27
+[10-Dec-2024 11:50:27 Europe/Berlin] Trying key: 3fd072dfa3805679f16fe41738c2a3ad3f90b214
+[10-Dec-2024 11:50:27 Europe/Berlin] Failed with key 3fd072dfa3805679f16fe41738c2a3ad3f90b214: Signature verification failed
+[10-Dec-2024 11:50:27 Europe/Berlin] Trying key: 1aac271099049c0dfc058e0612f08d06c30a0415
+[10-Dec-2024 11:50:27 Europe/Berlin] Failed with key 1aac271099049c0dfc058e0612f08d06c30a0415: Signature verification failed
+[10-Dec-2024 11:50:27 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[10-Dec-2024 11:50:27 Europe/Berlin] Token decoded successfully!
+[10-Dec-2024 11:50:27 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-10 12:50:26","iat":"2024-12-10 11:50:26"}
+[10-Dec-2024 11:53:27 Europe/Berlin] === New verification attempt ===
+[10-Dec-2024 11:53:27 Europe/Berlin] === Token Verification Details ===
+[10-Dec-2024 11:53:27 Europe/Berlin] Server time: 2024-12-10 11:53:27
+[10-Dec-2024 11:53:27 Europe/Berlin] Trying key: 3fd072dfa3805679f16fe41738c2a3ad3f90b214
+[10-Dec-2024 11:53:27 Europe/Berlin] Failed with key 3fd072dfa3805679f16fe41738c2a3ad3f90b214: Signature verification failed
+[10-Dec-2024 11:53:27 Europe/Berlin] Trying key: 1aac271099049c0dfc058e0612f08d06c30a0415
+[10-Dec-2024 11:53:27 Europe/Berlin] Failed with key 1aac271099049c0dfc058e0612f08d06c30a0415: Signature verification failed
+[10-Dec-2024 11:53:27 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[10-Dec-2024 11:53:27 Europe/Berlin] Token decoded successfully!
+[10-Dec-2024 11:53:27 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-10 12:53:28","iat":"2024-12-10 11:53:28"}
+[10-Dec-2024 11:56:24 Europe/Berlin] === New verification attempt ===
+[10-Dec-2024 11:56:24 Europe/Berlin] === Token Verification Details ===
+[10-Dec-2024 11:56:24 Europe/Berlin] Server time: 2024-12-10 11:56:24
+[10-Dec-2024 11:56:24 Europe/Berlin] Trying key: 3fd072dfa3805679f16fe41738c2a3ad3f90b214
+[10-Dec-2024 11:56:24 Europe/Berlin] Failed with key 3fd072dfa3805679f16fe41738c2a3ad3f90b214: Signature verification failed
+[10-Dec-2024 11:56:24 Europe/Berlin] Trying key: 1aac271099049c0dfc058e0612f08d06c30a0415
+[10-Dec-2024 11:56:24 Europe/Berlin] Failed with key 1aac271099049c0dfc058e0612f08d06c30a0415: Signature verification failed
+[10-Dec-2024 11:56:24 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[10-Dec-2024 11:56:24 Europe/Berlin] Token decoded successfully!
+[10-Dec-2024 11:56:24 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-10 12:56:25","iat":"2024-12-10 11:56:25"}
+[10-Dec-2024 12:09:15 Europe/Berlin] === New verification attempt ===
+[10-Dec-2024 12:09:15 Europe/Berlin] === Token Verification Details ===
+[10-Dec-2024 12:09:15 Europe/Berlin] Server time: 2024-12-10 12:09:15
+[10-Dec-2024 12:09:15 Europe/Berlin] Trying key: 3fd072dfa3805679f16fe41738c2a3ad3f90b214
+[10-Dec-2024 12:09:15 Europe/Berlin] Failed with key 3fd072dfa3805679f16fe41738c2a3ad3f90b214: Signature verification failed
+[10-Dec-2024 12:09:15 Europe/Berlin] Trying key: 1aac271099049c0dfc058e0612f08d06c30a0415
+[10-Dec-2024 12:09:15 Europe/Berlin] Failed with key 1aac271099049c0dfc058e0612f08d06c30a0415: Signature verification failed
+[10-Dec-2024 12:09:15 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[10-Dec-2024 12:09:15 Europe/Berlin] Token decoded successfully!
+[10-Dec-2024 12:09:15 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-10 13:09:16","iat":"2024-12-10 12:09:16"}
+[10-Dec-2024 12:11:07 Europe/Berlin] === New verification attempt ===
+[10-Dec-2024 12:11:07 Europe/Berlin] === Token Verification Details ===
+[10-Dec-2024 12:11:07 Europe/Berlin] Server time: 2024-12-10 12:11:07
+[10-Dec-2024 12:11:07 Europe/Berlin] Trying key: 3fd072dfa3805679f16fe41738c2a3ad3f90b214
+[10-Dec-2024 12:11:07 Europe/Berlin] Failed with key 3fd072dfa3805679f16fe41738c2a3ad3f90b214: Signature verification failed
+[10-Dec-2024 12:11:07 Europe/Berlin] Trying key: 1aac271099049c0dfc058e0612f08d06c30a0415
+[10-Dec-2024 12:11:07 Europe/Berlin] Failed with key 1aac271099049c0dfc058e0612f08d06c30a0415: Signature verification failed
+[10-Dec-2024 12:11:07 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[10-Dec-2024 12:11:07 Europe/Berlin] Token decoded successfully!
+[10-Dec-2024 12:11:07 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-10 13:11:08","iat":"2024-12-10 12:11:08"}
+[10-Dec-2024 12:14:25 Europe/Berlin] === New verification attempt ===
+[10-Dec-2024 12:14:25 Europe/Berlin] === Token Verification Details ===
+[10-Dec-2024 12:14:25 Europe/Berlin] Server time: 2024-12-10 12:14:25
+[10-Dec-2024 12:14:25 Europe/Berlin] Trying key: 3fd072dfa3805679f16fe41738c2a3ad3f90b214
+[10-Dec-2024 12:14:25 Europe/Berlin] Failed with key 3fd072dfa3805679f16fe41738c2a3ad3f90b214: Signature verification failed
+[10-Dec-2024 12:14:25 Europe/Berlin] Trying key: 1aac271099049c0dfc058e0612f08d06c30a0415
+[10-Dec-2024 12:14:25 Europe/Berlin] Failed with key 1aac271099049c0dfc058e0612f08d06c30a0415: Signature verification failed
+[10-Dec-2024 12:14:25 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[10-Dec-2024 12:14:25 Europe/Berlin] Token decoded successfully!
+[10-Dec-2024 12:14:25 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-10 13:14:26","iat":"2024-12-10 12:14:26"}
+[10-Dec-2024 12:16:47 Europe/Berlin] === New verification attempt ===
+[10-Dec-2024 12:16:47 Europe/Berlin] === Token Verification Details ===
+[10-Dec-2024 12:16:47 Europe/Berlin] Server time: 2024-12-10 12:16:47
+[10-Dec-2024 12:16:47 Europe/Berlin] Trying key: 3fd072dfa3805679f16fe41738c2a3ad3f90b214
+[10-Dec-2024 12:16:47 Europe/Berlin] Failed with key 3fd072dfa3805679f16fe41738c2a3ad3f90b214: Signature verification failed
+[10-Dec-2024 12:16:47 Europe/Berlin] Trying key: 1aac271099049c0dfc058e0612f08d06c30a0415
+[10-Dec-2024 12:16:47 Europe/Berlin] Failed with key 1aac271099049c0dfc058e0612f08d06c30a0415: Signature verification failed
+[10-Dec-2024 12:16:47 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[10-Dec-2024 12:16:47 Europe/Berlin] Token decoded successfully!
+[10-Dec-2024 12:16:47 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-10 13:16:48","iat":"2024-12-10 12:16:48"}
+[10-Dec-2024 12:22:53 Europe/Berlin] === New verification attempt ===
+[10-Dec-2024 12:22:53 Europe/Berlin] === Token Verification Details ===
+[10-Dec-2024 12:22:53 Europe/Berlin] Server time: 2024-12-10 12:22:53
+[10-Dec-2024 12:22:53 Europe/Berlin] Trying key: 3fd072dfa3805679f16fe41738c2a3ad3f90b214
+[10-Dec-2024 12:22:53 Europe/Berlin] Failed with key 3fd072dfa3805679f16fe41738c2a3ad3f90b214: Signature verification failed
+[10-Dec-2024 12:22:53 Europe/Berlin] Trying key: 1aac271099049c0dfc058e0612f08d06c30a0415
+[10-Dec-2024 12:22:53 Europe/Berlin] Failed with key 1aac271099049c0dfc058e0612f08d06c30a0415: Signature verification failed
+[10-Dec-2024 12:22:53 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[10-Dec-2024 12:22:53 Europe/Berlin] Token decoded successfully!
+[10-Dec-2024 12:22:53 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-10 13:22:54","iat":"2024-12-10 12:22:54"}
+[10-Dec-2024 12:28:03 Europe/Berlin] === New verification attempt ===
+[10-Dec-2024 12:28:03 Europe/Berlin] === Token Verification Details ===
+[10-Dec-2024 12:28:03 Europe/Berlin] Server time: 2024-12-10 12:28:03
+[10-Dec-2024 12:28:03 Europe/Berlin] Trying key: 3fd072dfa3805679f16fe41738c2a3ad3f90b214
+[10-Dec-2024 12:28:03 Europe/Berlin] Failed with key 3fd072dfa3805679f16fe41738c2a3ad3f90b214: Signature verification failed
+[10-Dec-2024 12:28:03 Europe/Berlin] Trying key: 1aac271099049c0dfc058e0612f08d06c30a0415
+[10-Dec-2024 12:28:03 Europe/Berlin] Failed with key 1aac271099049c0dfc058e0612f08d06c30a0415: Signature verification failed
+[10-Dec-2024 12:28:03 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[10-Dec-2024 12:28:03 Europe/Berlin] Token decoded successfully!
+[10-Dec-2024 12:28:03 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-10 13:28:04","iat":"2024-12-10 12:28:04"}
+[10-Dec-2024 12:29:29 Europe/Berlin] === New verification attempt ===
+[10-Dec-2024 12:29:29 Europe/Berlin] === Token Verification Details ===
+[10-Dec-2024 12:29:29 Europe/Berlin] Server time: 2024-12-10 12:29:29
+[10-Dec-2024 12:29:29 Europe/Berlin] Trying key: 3fd072dfa3805679f16fe41738c2a3ad3f90b214
+[10-Dec-2024 12:29:29 Europe/Berlin] Failed with key 3fd072dfa3805679f16fe41738c2a3ad3f90b214: Signature verification failed
+[10-Dec-2024 12:29:29 Europe/Berlin] Trying key: 1aac271099049c0dfc058e0612f08d06c30a0415
+[10-Dec-2024 12:29:29 Europe/Berlin] Failed with key 1aac271099049c0dfc058e0612f08d06c30a0415: Signature verification failed
+[10-Dec-2024 12:29:29 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[10-Dec-2024 12:29:29 Europe/Berlin] Token decoded successfully!
+[10-Dec-2024 12:29:29 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-10 13:29:30","iat":"2024-12-10 12:29:30"}
+[10-Dec-2024 12:44:26 Europe/Berlin] === New verification attempt ===
+[10-Dec-2024 12:44:26 Europe/Berlin] === Token Verification Details ===
+[10-Dec-2024 12:44:26 Europe/Berlin] Server time: 2024-12-10 12:44:26
+[10-Dec-2024 12:44:26 Europe/Berlin] Trying key: 3fd072dfa3805679f16fe41738c2a3ad3f90b214
+[10-Dec-2024 12:44:26 Europe/Berlin] Failed with key 3fd072dfa3805679f16fe41738c2a3ad3f90b214: Signature verification failed
+[10-Dec-2024 12:44:26 Europe/Berlin] Trying key: 1aac271099049c0dfc058e0612f08d06c30a0415
+[10-Dec-2024 12:44:26 Europe/Berlin] Failed with key 1aac271099049c0dfc058e0612f08d06c30a0415: Signature verification failed
+[10-Dec-2024 12:44:26 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[10-Dec-2024 12:44:26 Europe/Berlin] Token decoded successfully!
+[10-Dec-2024 12:44:26 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-10 13:44:27","iat":"2024-12-10 12:44:27"}
+[10-Dec-2024 12:47:45 Europe/Berlin] === New verification attempt ===
+[10-Dec-2024 12:47:45 Europe/Berlin] === Token Verification Details ===
+[10-Dec-2024 12:47:45 Europe/Berlin] Server time: 2024-12-10 12:47:45
+[10-Dec-2024 12:47:45 Europe/Berlin] Trying key: 3fd072dfa3805679f16fe41738c2a3ad3f90b214
+[10-Dec-2024 12:47:45 Europe/Berlin] Failed with key 3fd072dfa3805679f16fe41738c2a3ad3f90b214: Signature verification failed
+[10-Dec-2024 12:47:45 Europe/Berlin] Trying key: 1aac271099049c0dfc058e0612f08d06c30a0415
+[10-Dec-2024 12:47:45 Europe/Berlin] Failed with key 1aac271099049c0dfc058e0612f08d06c30a0415: Signature verification failed
+[10-Dec-2024 12:47:45 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[10-Dec-2024 12:47:45 Europe/Berlin] Token decoded successfully!
+[10-Dec-2024 12:47:45 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-10 13:47:45","iat":"2024-12-10 12:47:45"}
+[10-Dec-2024 12:48:21 Europe/Berlin] === New verification attempt ===
+[10-Dec-2024 12:48:21 Europe/Berlin] === Token Verification Details ===
+[10-Dec-2024 12:48:21 Europe/Berlin] Server time: 2024-12-10 12:48:21
+[10-Dec-2024 12:48:21 Europe/Berlin] Trying key: 3fd072dfa3805679f16fe41738c2a3ad3f90b214
+[10-Dec-2024 12:48:21 Europe/Berlin] Failed with key 3fd072dfa3805679f16fe41738c2a3ad3f90b214: Signature verification failed
+[10-Dec-2024 12:48:21 Europe/Berlin] Trying key: 1aac271099049c0dfc058e0612f08d06c30a0415
+[10-Dec-2024 12:48:21 Europe/Berlin] Failed with key 1aac271099049c0dfc058e0612f08d06c30a0415: Signature verification failed
+[10-Dec-2024 12:48:21 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[10-Dec-2024 12:48:21 Europe/Berlin] Token decoded successfully!
+[10-Dec-2024 12:48:21 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-10 13:48:22","iat":"2024-12-10 12:48:22"}
+[10-Dec-2024 12:50:09 Europe/Berlin] === New verification attempt ===
+[10-Dec-2024 12:50:09 Europe/Berlin] === Token Verification Details ===
+[10-Dec-2024 12:50:09 Europe/Berlin] Server time: 2024-12-10 12:50:09
+[10-Dec-2024 12:50:09 Europe/Berlin] Trying key: 3fd072dfa3805679f16fe41738c2a3ad3f90b214
+[10-Dec-2024 12:50:09 Europe/Berlin] Failed with key 3fd072dfa3805679f16fe41738c2a3ad3f90b214: Signature verification failed
+[10-Dec-2024 12:50:09 Europe/Berlin] Trying key: 1aac271099049c0dfc058e0612f08d06c30a0415
+[10-Dec-2024 12:50:09 Europe/Berlin] Failed with key 1aac271099049c0dfc058e0612f08d06c30a0415: Signature verification failed
+[10-Dec-2024 12:50:09 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[10-Dec-2024 12:50:09 Europe/Berlin] Token decoded successfully!
+[10-Dec-2024 12:50:09 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-10 13:50:10","iat":"2024-12-10 12:50:10"}
+[10-Dec-2024 12:57:10 Europe/Berlin] === New verification attempt ===
+[10-Dec-2024 12:57:11 Europe/Berlin] === Token Verification Details ===
+[10-Dec-2024 12:57:11 Europe/Berlin] Server time: 2024-12-10 12:57:11
+[10-Dec-2024 12:57:11 Europe/Berlin] Trying key: 3fd072dfa3805679f16fe41738c2a3ad3f90b214
+[10-Dec-2024 12:57:11 Europe/Berlin] Failed with key 3fd072dfa3805679f16fe41738c2a3ad3f90b214: Signature verification failed
+[10-Dec-2024 12:57:11 Europe/Berlin] Trying key: 1aac271099049c0dfc058e0612f08d06c30a0415
+[10-Dec-2024 12:57:11 Europe/Berlin] Failed with key 1aac271099049c0dfc058e0612f08d06c30a0415: Signature verification failed
+[10-Dec-2024 12:57:11 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[10-Dec-2024 12:57:11 Europe/Berlin] Token decoded successfully!
+[10-Dec-2024 12:57:11 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-10 13:57:11","iat":"2024-12-10 12:57:11"}
+[10-Dec-2024 12:59:17 Europe/Berlin] === New verification attempt ===
+[10-Dec-2024 12:59:17 Europe/Berlin] === Token Verification Details ===
+[10-Dec-2024 12:59:17 Europe/Berlin] Server time: 2024-12-10 12:59:17
+[10-Dec-2024 12:59:17 Europe/Berlin] Trying key: 3fd072dfa3805679f16fe41738c2a3ad3f90b214
+[10-Dec-2024 12:59:17 Europe/Berlin] Failed with key 3fd072dfa3805679f16fe41738c2a3ad3f90b214: Signature verification failed
+[10-Dec-2024 12:59:17 Europe/Berlin] Trying key: 1aac271099049c0dfc058e0612f08d06c30a0415
+[10-Dec-2024 12:59:17 Europe/Berlin] Failed with key 1aac271099049c0dfc058e0612f08d06c30a0415: Signature verification failed
+[10-Dec-2024 12:59:17 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[10-Dec-2024 12:59:17 Europe/Berlin] Token decoded successfully!
+[10-Dec-2024 12:59:17 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-10 13:59:18","iat":"2024-12-10 12:59:18"}
+[10-Dec-2024 13:00:20 Europe/Berlin] === New verification attempt ===
+[10-Dec-2024 13:00:20 Europe/Berlin] === Token Verification Details ===
+[10-Dec-2024 13:00:20 Europe/Berlin] Server time: 2024-12-10 13:00:20
+[10-Dec-2024 13:00:20 Europe/Berlin] Trying key: 3fd072dfa3805679f16fe41738c2a3ad3f90b214
+[10-Dec-2024 13:00:20 Europe/Berlin] Failed with key 3fd072dfa3805679f16fe41738c2a3ad3f90b214: Signature verification failed
+[10-Dec-2024 13:00:20 Europe/Berlin] Trying key: 1aac271099049c0dfc058e0612f08d06c30a0415
+[10-Dec-2024 13:00:20 Europe/Berlin] Failed with key 1aac271099049c0dfc058e0612f08d06c30a0415: Signature verification failed
+[10-Dec-2024 13:00:20 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[10-Dec-2024 13:00:20 Europe/Berlin] Token decoded successfully!
+[10-Dec-2024 13:00:20 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-10 14:00:21","iat":"2024-12-10 13:00:21"}
+[10-Dec-2024 13:08:28 Europe/Berlin] === New verification attempt ===
+[10-Dec-2024 13:08:28 Europe/Berlin] === Token Verification Details ===
+[10-Dec-2024 13:08:28 Europe/Berlin] Server time: 2024-12-10 13:08:28
+[10-Dec-2024 13:08:28 Europe/Berlin] Trying key: 3fd072dfa3805679f16fe41738c2a3ad3f90b214
+[10-Dec-2024 13:08:28 Europe/Berlin] Failed with key 3fd072dfa3805679f16fe41738c2a3ad3f90b214: Signature verification failed
+[10-Dec-2024 13:08:28 Europe/Berlin] Trying key: 1aac271099049c0dfc058e0612f08d06c30a0415
+[10-Dec-2024 13:08:28 Europe/Berlin] Failed with key 1aac271099049c0dfc058e0612f08d06c30a0415: Signature verification failed
+[10-Dec-2024 13:08:28 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[10-Dec-2024 13:08:28 Europe/Berlin] Token decoded successfully!
+[10-Dec-2024 13:08:28 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-10 14:08:29","iat":"2024-12-10 13:08:29"}
+[10-Dec-2024 13:18:24 Europe/Berlin] === New verification attempt ===
+[10-Dec-2024 13:18:24 Europe/Berlin] === Token Verification Details ===
+[10-Dec-2024 13:18:24 Europe/Berlin] Server time: 2024-12-10 13:18:24
+[10-Dec-2024 13:18:24 Europe/Berlin] Trying key: 3fd072dfa3805679f16fe41738c2a3ad3f90b214
+[10-Dec-2024 13:18:24 Europe/Berlin] Failed with key 3fd072dfa3805679f16fe41738c2a3ad3f90b214: Signature verification failed
+[10-Dec-2024 13:18:24 Europe/Berlin] Trying key: 1aac271099049c0dfc058e0612f08d06c30a0415
+[10-Dec-2024 13:18:24 Europe/Berlin] Failed with key 1aac271099049c0dfc058e0612f08d06c30a0415: Signature verification failed
+[10-Dec-2024 13:18:24 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[10-Dec-2024 13:18:24 Europe/Berlin] Token decoded successfully!
+[10-Dec-2024 13:18:24 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-10 14:18:24","iat":"2024-12-10 13:18:24"}
+[10-Dec-2024 13:19:33 Europe/Berlin] === New verification attempt ===
+[10-Dec-2024 13:19:33 Europe/Berlin] === Token Verification Details ===
+[10-Dec-2024 13:19:33 Europe/Berlin] Server time: 2024-12-10 13:19:33
+[10-Dec-2024 13:19:33 Europe/Berlin] Trying key: 3fd072dfa3805679f16fe41738c2a3ad3f90b214
+[10-Dec-2024 13:19:33 Europe/Berlin] Failed with key 3fd072dfa3805679f16fe41738c2a3ad3f90b214: Signature verification failed
+[10-Dec-2024 13:19:33 Europe/Berlin] Trying key: 1aac271099049c0dfc058e0612f08d06c30a0415
+[10-Dec-2024 13:19:33 Europe/Berlin] Failed with key 1aac271099049c0dfc058e0612f08d06c30a0415: Signature verification failed
+[10-Dec-2024 13:19:33 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[10-Dec-2024 13:19:33 Europe/Berlin] Token decoded successfully!
+[10-Dec-2024 13:19:33 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-10 14:19:34","iat":"2024-12-10 13:19:34"}
+[10-Dec-2024 13:22:42 Europe/Berlin] === New verification attempt ===
+[10-Dec-2024 13:22:42 Europe/Berlin] === Token Verification Details ===
+[10-Dec-2024 13:22:42 Europe/Berlin] Server time: 2024-12-10 13:22:42
+[10-Dec-2024 13:22:42 Europe/Berlin] Trying key: 3fd072dfa3805679f16fe41738c2a3ad3f90b214
+[10-Dec-2024 13:22:42 Europe/Berlin] Failed with key 3fd072dfa3805679f16fe41738c2a3ad3f90b214: Signature verification failed
+[10-Dec-2024 13:22:42 Europe/Berlin] Trying key: 1aac271099049c0dfc058e0612f08d06c30a0415
+[10-Dec-2024 13:22:42 Europe/Berlin] Failed with key 1aac271099049c0dfc058e0612f08d06c30a0415: Signature verification failed
+[10-Dec-2024 13:22:42 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[10-Dec-2024 13:22:42 Europe/Berlin] Token decoded successfully!
+[10-Dec-2024 13:22:42 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-10 14:22:42","iat":"2024-12-10 13:22:42"}
+[10-Dec-2024 13:22:50 Europe/Berlin] === New verification attempt ===
+[10-Dec-2024 13:22:50 Europe/Berlin] === Token Verification Details ===
+[10-Dec-2024 13:22:50 Europe/Berlin] Server time: 2024-12-10 13:22:50
+[10-Dec-2024 13:22:50 Europe/Berlin] Trying key: 3fd072dfa3805679f16fe41738c2a3ad3f90b214
+[10-Dec-2024 13:22:50 Europe/Berlin] Failed with key 3fd072dfa3805679f16fe41738c2a3ad3f90b214: Signature verification failed
+[10-Dec-2024 13:22:50 Europe/Berlin] Trying key: 1aac271099049c0dfc058e0612f08d06c30a0415
+[10-Dec-2024 13:22:50 Europe/Berlin] Failed with key 1aac271099049c0dfc058e0612f08d06c30a0415: Signature verification failed
+[10-Dec-2024 13:22:50 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[10-Dec-2024 13:22:50 Europe/Berlin] Token decoded successfully!
+[10-Dec-2024 13:22:50 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-10 14:22:51","iat":"2024-12-10 13:22:51"}
+[10-Dec-2024 13:24:26 Europe/Berlin] === New verification attempt ===
+[10-Dec-2024 13:24:26 Europe/Berlin] === Token Verification Details ===
+[10-Dec-2024 13:24:26 Europe/Berlin] Server time: 2024-12-10 13:24:26
+[10-Dec-2024 13:24:26 Europe/Berlin] Trying key: 3fd072dfa3805679f16fe41738c2a3ad3f90b214
+[10-Dec-2024 13:24:26 Europe/Berlin] Failed with key 3fd072dfa3805679f16fe41738c2a3ad3f90b214: Signature verification failed
+[10-Dec-2024 13:24:26 Europe/Berlin] Trying key: 1aac271099049c0dfc058e0612f08d06c30a0415
+[10-Dec-2024 13:24:26 Europe/Berlin] Failed with key 1aac271099049c0dfc058e0612f08d06c30a0415: Signature verification failed
+[10-Dec-2024 13:24:26 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[10-Dec-2024 13:24:26 Europe/Berlin] Token decoded successfully!
+[10-Dec-2024 13:24:26 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-10 14:24:27","iat":"2024-12-10 13:24:27"}
+[10-Dec-2024 13:27:59 Europe/Berlin] === New verification attempt ===
+[10-Dec-2024 13:27:59 Europe/Berlin] === Token Verification Details ===
+[10-Dec-2024 13:27:59 Europe/Berlin] Server time: 2024-12-10 13:27:59
+[10-Dec-2024 13:27:59 Europe/Berlin] Trying key: 3fd072dfa3805679f16fe41738c2a3ad3f90b214
+[10-Dec-2024 13:27:59 Europe/Berlin] Failed with key 3fd072dfa3805679f16fe41738c2a3ad3f90b214: Signature verification failed
+[10-Dec-2024 13:27:59 Europe/Berlin] Trying key: 1aac271099049c0dfc058e0612f08d06c30a0415
+[10-Dec-2024 13:27:59 Europe/Berlin] Failed with key 1aac271099049c0dfc058e0612f08d06c30a0415: Signature verification failed
+[10-Dec-2024 13:27:59 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[10-Dec-2024 13:27:59 Europe/Berlin] Token decoded successfully!
+[10-Dec-2024 13:27:59 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-10 14:28:00","iat":"2024-12-10 13:28:00"}
+[10-Dec-2024 13:38:52 Europe/Berlin] === New verification attempt ===
+[10-Dec-2024 13:38:52 Europe/Berlin] === Token Verification Details ===
+[10-Dec-2024 13:38:52 Europe/Berlin] Server time: 2024-12-10 13:38:52
+[10-Dec-2024 13:38:52 Europe/Berlin] Trying key: 3fd072dfa3805679f16fe41738c2a3ad3f90b214
+[10-Dec-2024 13:38:52 Europe/Berlin] Failed with key 3fd072dfa3805679f16fe41738c2a3ad3f90b214: Signature verification failed
+[10-Dec-2024 13:38:52 Europe/Berlin] Trying key: 1aac271099049c0dfc058e0612f08d06c30a0415
+[10-Dec-2024 13:38:52 Europe/Berlin] Failed with key 1aac271099049c0dfc058e0612f08d06c30a0415: Signature verification failed
+[10-Dec-2024 13:38:52 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[10-Dec-2024 13:38:52 Europe/Berlin] Token decoded successfully!
+[10-Dec-2024 13:38:52 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-10 14:38:53","iat":"2024-12-10 13:38:53"}
+[10-Dec-2024 13:49:36 Europe/Berlin] === New verification attempt ===
+[10-Dec-2024 13:49:36 Europe/Berlin] === Token Verification Details ===
+[10-Dec-2024 13:49:36 Europe/Berlin] Server time: 2024-12-10 13:49:36
+[10-Dec-2024 13:49:36 Europe/Berlin] Trying key: 3fd072dfa3805679f16fe41738c2a3ad3f90b214
+[10-Dec-2024 13:49:36 Europe/Berlin] Failed with key 3fd072dfa3805679f16fe41738c2a3ad3f90b214: Signature verification failed
+[10-Dec-2024 13:49:36 Europe/Berlin] Trying key: 1aac271099049c0dfc058e0612f08d06c30a0415
+[10-Dec-2024 13:49:36 Europe/Berlin] Failed with key 1aac271099049c0dfc058e0612f08d06c30a0415: Signature verification failed
+[10-Dec-2024 13:49:36 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[10-Dec-2024 13:49:36 Europe/Berlin] Token decoded successfully!
+[10-Dec-2024 13:49:36 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-10 14:49:37","iat":"2024-12-10 13:49:37"}
+[10-Dec-2024 13:56:43 Europe/Berlin] === New verification attempt ===
+[10-Dec-2024 13:56:43 Europe/Berlin] === Token Verification Details ===
+[10-Dec-2024 13:56:43 Europe/Berlin] Server time: 2024-12-10 13:56:43
+[10-Dec-2024 13:56:43 Europe/Berlin] Trying key: 3fd072dfa3805679f16fe41738c2a3ad3f90b214
+[10-Dec-2024 13:56:43 Europe/Berlin] Failed with key 3fd072dfa3805679f16fe41738c2a3ad3f90b214: Signature verification failed
+[10-Dec-2024 13:56:43 Europe/Berlin] Trying key: 1aac271099049c0dfc058e0612f08d06c30a0415
+[10-Dec-2024 13:56:43 Europe/Berlin] Failed with key 1aac271099049c0dfc058e0612f08d06c30a0415: Signature verification failed
+[10-Dec-2024 13:56:43 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[10-Dec-2024 13:56:43 Europe/Berlin] Token decoded successfully!
+[10-Dec-2024 13:56:43 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-10 14:56:43","iat":"2024-12-10 13:56:43"}
+[10-Dec-2024 13:59:39 Europe/Berlin] === New verification attempt ===
+[10-Dec-2024 13:59:39 Europe/Berlin] === Token Verification Details ===
+[10-Dec-2024 13:59:39 Europe/Berlin] Server time: 2024-12-10 13:59:39
+[10-Dec-2024 13:59:39 Europe/Berlin] Trying key: 3fd072dfa3805679f16fe41738c2a3ad3f90b214
+[10-Dec-2024 13:59:39 Europe/Berlin] Failed with key 3fd072dfa3805679f16fe41738c2a3ad3f90b214: Signature verification failed
+[10-Dec-2024 13:59:39 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[10-Dec-2024 13:59:39 Europe/Berlin] Token decoded successfully!
+[10-Dec-2024 13:59:39 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-10 14:59:39","iat":"2024-12-10 13:59:39"}
+[10-Dec-2024 14:08:26 Europe/Berlin] === New verification attempt ===
+[10-Dec-2024 14:08:26 Europe/Berlin] === Token Verification Details ===
+[10-Dec-2024 14:08:26 Europe/Berlin] Server time: 2024-12-10 14:08:26
+[10-Dec-2024 14:08:26 Europe/Berlin] Trying key: 3fd072dfa3805679f16fe41738c2a3ad3f90b214
+[10-Dec-2024 14:08:26 Europe/Berlin] Failed with key 3fd072dfa3805679f16fe41738c2a3ad3f90b214: Signature verification failed
+[10-Dec-2024 14:08:26 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[10-Dec-2024 14:08:26 Europe/Berlin] Token decoded successfully!
+[10-Dec-2024 14:08:26 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-10 15:08:27","iat":"2024-12-10 14:08:27"}
+[10-Dec-2024 14:09:52 Europe/Berlin] === New verification attempt ===
+[10-Dec-2024 14:09:52 Europe/Berlin] === Token Verification Details ===
+[10-Dec-2024 14:09:52 Europe/Berlin] Server time: 2024-12-10 14:09:52
+[10-Dec-2024 14:09:52 Europe/Berlin] Trying key: 3fd072dfa3805679f16fe41738c2a3ad3f90b214
+[10-Dec-2024 14:09:52 Europe/Berlin] Failed with key 3fd072dfa3805679f16fe41738c2a3ad3f90b214: Signature verification failed
+[10-Dec-2024 14:09:52 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[10-Dec-2024 14:09:52 Europe/Berlin] Token decoded successfully!
+[10-Dec-2024 14:09:52 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-10 15:09:52","iat":"2024-12-10 14:09:52"}
+[10-Dec-2024 14:22:17 Europe/Berlin] === New verification attempt ===
+[10-Dec-2024 14:22:17 Europe/Berlin] === Token Verification Details ===
+[10-Dec-2024 14:22:17 Europe/Berlin] Server time: 2024-12-10 14:22:17
+[10-Dec-2024 14:22:17 Europe/Berlin] Trying key: 3fd072dfa3805679f16fe41738c2a3ad3f90b214
+[10-Dec-2024 14:22:17 Europe/Berlin] Failed with key 3fd072dfa3805679f16fe41738c2a3ad3f90b214: Signature verification failed
+[10-Dec-2024 14:22:17 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[10-Dec-2024 14:22:17 Europe/Berlin] Token decoded successfully!
+[10-Dec-2024 14:22:17 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-10 15:22:18","iat":"2024-12-10 14:22:18"}
+[10-Dec-2024 15:42:15 Europe/Berlin] === New verification attempt ===
+[10-Dec-2024 15:42:16 Europe/Berlin] === Token Verification Details ===
+[10-Dec-2024 15:42:16 Europe/Berlin] Server time: 2024-12-10 15:42:16
+[10-Dec-2024 15:42:16 Europe/Berlin] Trying key: 3fd072dfa3805679f16fe41738c2a3ad3f90b214
+[10-Dec-2024 15:42:16 Europe/Berlin] Failed with key 3fd072dfa3805679f16fe41738c2a3ad3f90b214: Signature verification failed
+[10-Dec-2024 15:42:16 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[10-Dec-2024 15:42:16 Europe/Berlin] Token decoded successfully!
+[10-Dec-2024 15:42:16 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-10 16:42:15","iat":"2024-12-10 15:42:15"}
+[10-Dec-2024 17:25:16 Europe/Berlin] === New verification attempt ===
+[10-Dec-2024 17:25:17 Europe/Berlin] === Token Verification Details ===
+[10-Dec-2024 17:25:17 Europe/Berlin] Server time: 2024-12-10 17:25:17
+[10-Dec-2024 17:25:17 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[10-Dec-2024 17:25:17 Europe/Berlin] Token decoded successfully!
+[10-Dec-2024 17:25:17 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-10 18:25:16","iat":"2024-12-10 17:25:16"}
+[10-Dec-2024 18:31:33 Europe/Berlin] === New verification attempt ===
+[10-Dec-2024 18:31:34 Europe/Berlin] === Token Verification Details ===
+[10-Dec-2024 18:31:34 Europe/Berlin] Server time: 2024-12-10 18:31:34
+[10-Dec-2024 18:31:34 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[10-Dec-2024 18:31:34 Europe/Berlin] Token decoded successfully!
+[10-Dec-2024 18:31:34 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-10 19:31:32","iat":"2024-12-10 18:31:32"}
+[10-Dec-2024 18:57:13 Europe/Berlin] === New verification attempt ===
+[10-Dec-2024 18:57:13 Europe/Berlin] === Token Verification Details ===
+[10-Dec-2024 18:57:13 Europe/Berlin] Server time: 2024-12-10 18:57:13
+[10-Dec-2024 18:57:13 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[10-Dec-2024 18:57:13 Europe/Berlin] Token decoded successfully!
+[10-Dec-2024 18:57:13 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-10 19:57:13","iat":"2024-12-10 18:57:13"}
+[10-Dec-2024 19:36:29 Europe/Berlin] === New verification attempt ===
+[10-Dec-2024 19:36:30 Europe/Berlin] === Token Verification Details ===
+[10-Dec-2024 19:36:30 Europe/Berlin] Server time: 2024-12-10 19:36:30
+[10-Dec-2024 19:36:30 Europe/Berlin] Trying key: 1aac271099049c0dfc058e0612f08d06c30a0415
+[10-Dec-2024 19:36:30 Europe/Berlin] Failed with key 1aac271099049c0dfc058e0612f08d06c30a0415: Signature verification failed
+[10-Dec-2024 19:36:30 Europe/Berlin] Trying key: 3fd072dfa3805679f16fe41738c2a3ad3f90b214
+[10-Dec-2024 19:36:30 Europe/Berlin] Failed with key 3fd072dfa3805679f16fe41738c2a3ad3f90b214: Signature verification failed
+[10-Dec-2024 19:36:30 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[10-Dec-2024 19:36:30 Europe/Berlin] Token decoded successfully!
+[10-Dec-2024 19:36:30 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-10 20:36:29","iat":"2024-12-10 19:36:29"}
+[10-Dec-2024 19:50:35 Europe/Berlin] === New verification attempt ===
+[10-Dec-2024 19:50:35 Europe/Berlin] === Token Verification Details ===
+[10-Dec-2024 19:50:35 Europe/Berlin] Server time: 2024-12-10 19:50:35
+[10-Dec-2024 19:50:35 Europe/Berlin] Trying key: 1aac271099049c0dfc058e0612f08d06c30a0415
+[10-Dec-2024 19:50:35 Europe/Berlin] Failed with key 1aac271099049c0dfc058e0612f08d06c30a0415: Signature verification failed
+[10-Dec-2024 19:50:35 Europe/Berlin] Trying key: 3fd072dfa3805679f16fe41738c2a3ad3f90b214
+[10-Dec-2024 19:50:35 Europe/Berlin] Failed with key 3fd072dfa3805679f16fe41738c2a3ad3f90b214: Signature verification failed
+[10-Dec-2024 19:50:35 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[10-Dec-2024 19:50:35 Europe/Berlin] Token decoded successfully!
+[10-Dec-2024 19:50:35 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-10 20:50:35","iat":"2024-12-10 19:50:35"}
+[10-Dec-2024 20:28:14 Europe/Berlin] === New verification attempt ===
+[10-Dec-2024 20:28:14 Europe/Berlin] === Token Verification Details ===
+[10-Dec-2024 20:28:14 Europe/Berlin] Server time: 2024-12-10 20:28:14
+[10-Dec-2024 20:28:14 Europe/Berlin] Trying key: 1aac271099049c0dfc058e0612f08d06c30a0415
+[10-Dec-2024 20:28:14 Europe/Berlin] Failed with key 1aac271099049c0dfc058e0612f08d06c30a0415: Signature verification failed
+[10-Dec-2024 20:28:14 Europe/Berlin] Trying key: 3fd072dfa3805679f16fe41738c2a3ad3f90b214
+[10-Dec-2024 20:28:14 Europe/Berlin] Failed with key 3fd072dfa3805679f16fe41738c2a3ad3f90b214: Signature verification failed
+[10-Dec-2024 20:28:14 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[10-Dec-2024 20:28:14 Europe/Berlin] Token decoded successfully!
+[10-Dec-2024 20:28:14 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-10 21:28:14","iat":"2024-12-10 20:28:14"}
+[11-Dec-2024 03:11:02 Europe/Berlin] === New verification attempt ===
+[11-Dec-2024 03:11:04 Europe/Berlin] === Token Verification Details ===
+[11-Dec-2024 03:11:04 Europe/Berlin] Server time: 2024-12-11 03:11:04
+[11-Dec-2024 03:11:04 Europe/Berlin] Trying key: 1aac271099049c0dfc058e0612f08d06c30a0415
+[11-Dec-2024 03:11:04 Europe/Berlin] Failed with key 1aac271099049c0dfc058e0612f08d06c30a0415: Signature verification failed
+[11-Dec-2024 03:11:04 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[11-Dec-2024 03:11:04 Europe/Berlin] Token decoded successfully!
+[11-Dec-2024 03:11:04 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-11 04:11:03","iat":"2024-12-11 03:11:03"}
+[11-Dec-2024 04:10:15 Europe/Berlin] === New verification attempt ===
+[11-Dec-2024 04:10:15 Europe/Berlin] === Token Verification Details ===
+[11-Dec-2024 04:10:15 Europe/Berlin] Server time: 2024-12-11 04:10:15
+[11-Dec-2024 04:10:15 Europe/Berlin] Trying key: 1aac271099049c0dfc058e0612f08d06c30a0415
+[11-Dec-2024 04:10:15 Europe/Berlin] Failed with key 1aac271099049c0dfc058e0612f08d06c30a0415: Signature verification failed
+[11-Dec-2024 04:10:15 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[11-Dec-2024 04:10:15 Europe/Berlin] Token decoded successfully!
+[11-Dec-2024 04:10:15 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-11 05:10:16","iat":"2024-12-11 04:10:16"}
+[11-Dec-2024 04:10:58 Europe/Berlin] === New verification attempt ===
+[11-Dec-2024 04:10:58 Europe/Berlin] === Token Verification Details ===
+[11-Dec-2024 04:10:58 Europe/Berlin] Server time: 2024-12-11 04:10:58
+[11-Dec-2024 04:10:58 Europe/Berlin] Trying key: 1aac271099049c0dfc058e0612f08d06c30a0415
+[11-Dec-2024 04:10:58 Europe/Berlin] Failed with key 1aac271099049c0dfc058e0612f08d06c30a0415: Signature verification failed
+[11-Dec-2024 04:10:58 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[11-Dec-2024 04:10:58 Europe/Berlin] Token decoded successfully!
+[11-Dec-2024 04:10:58 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-11 05:10:59","iat":"2024-12-11 04:10:59"}
+[11-Dec-2024 04:11:39 Europe/Berlin] === New verification attempt ===
+[11-Dec-2024 04:11:40 Europe/Berlin] === Token Verification Details ===
+[11-Dec-2024 04:11:40 Europe/Berlin] Server time: 2024-12-11 04:11:40
+[11-Dec-2024 04:11:40 Europe/Berlin] Trying key: 1aac271099049c0dfc058e0612f08d06c30a0415
+[11-Dec-2024 04:11:40 Europe/Berlin] Failed with key 1aac271099049c0dfc058e0612f08d06c30a0415: Signature verification failed
+[11-Dec-2024 04:11:40 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[11-Dec-2024 04:11:40 Europe/Berlin] Token decoded successfully!
+[11-Dec-2024 04:11:40 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-11 05:11:40","iat":"2024-12-11 04:11:40"}
+[11-Dec-2024 04:12:58 Europe/Berlin] === New verification attempt ===
+[11-Dec-2024 04:12:58 Europe/Berlin] === Token Verification Details ===
+[11-Dec-2024 04:12:58 Europe/Berlin] Server time: 2024-12-11 04:12:58
+[11-Dec-2024 04:12:58 Europe/Berlin] Trying key: 1aac271099049c0dfc058e0612f08d06c30a0415
+[11-Dec-2024 04:12:58 Europe/Berlin] Failed with key 1aac271099049c0dfc058e0612f08d06c30a0415: Signature verification failed
+[11-Dec-2024 04:12:58 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[11-Dec-2024 04:12:58 Europe/Berlin] Token decoded successfully!
+[11-Dec-2024 04:12:58 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-11 05:12:59","iat":"2024-12-11 04:12:59"}
+[11-Dec-2024 04:14:14 Europe/Berlin] === New verification attempt ===
+[11-Dec-2024 04:14:14 Europe/Berlin] === Token Verification Details ===
+[11-Dec-2024 04:14:14 Europe/Berlin] Server time: 2024-12-11 04:14:14
+[11-Dec-2024 04:14:14 Europe/Berlin] Trying key: 1aac271099049c0dfc058e0612f08d06c30a0415
+[11-Dec-2024 04:14:14 Europe/Berlin] Failed with key 1aac271099049c0dfc058e0612f08d06c30a0415: Signature verification failed
+[11-Dec-2024 04:14:14 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[11-Dec-2024 04:14:14 Europe/Berlin] Token decoded successfully!
+[11-Dec-2024 04:14:14 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-11 05:14:15","iat":"2024-12-11 04:14:15"}
+[11-Dec-2024 04:14:21 Europe/Berlin] === New verification attempt ===
+[11-Dec-2024 04:14:21 Europe/Berlin] === Token Verification Details ===
+[11-Dec-2024 04:14:21 Europe/Berlin] Server time: 2024-12-11 04:14:21
+[11-Dec-2024 04:14:21 Europe/Berlin] Trying key: 1aac271099049c0dfc058e0612f08d06c30a0415
+[11-Dec-2024 04:14:21 Europe/Berlin] Failed with key 1aac271099049c0dfc058e0612f08d06c30a0415: Signature verification failed
+[11-Dec-2024 04:14:21 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[11-Dec-2024 04:14:21 Europe/Berlin] Token decoded successfully!
+[11-Dec-2024 04:14:21 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-11 05:14:22","iat":"2024-12-11 04:14:22"}
+[11-Dec-2024 04:14:30 Europe/Berlin] === New verification attempt ===
+[11-Dec-2024 04:14:31 Europe/Berlin] === Token Verification Details ===
+[11-Dec-2024 04:14:31 Europe/Berlin] Server time: 2024-12-11 04:14:31
+[11-Dec-2024 04:14:31 Europe/Berlin] Trying key: 1aac271099049c0dfc058e0612f08d06c30a0415
+[11-Dec-2024 04:14:31 Europe/Berlin] Failed with key 1aac271099049c0dfc058e0612f08d06c30a0415: Signature verification failed
+[11-Dec-2024 04:14:31 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[11-Dec-2024 04:14:31 Europe/Berlin] Token decoded successfully!
+[11-Dec-2024 04:14:31 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-11 05:14:32","iat":"2024-12-11 04:14:32"}
+[11-Dec-2024 04:15:13 Europe/Berlin] === New verification attempt ===
+[11-Dec-2024 04:15:13 Europe/Berlin] === Token Verification Details ===
+[11-Dec-2024 04:15:13 Europe/Berlin] Server time: 2024-12-11 04:15:13
+[11-Dec-2024 04:15:13 Europe/Berlin] Trying key: 1aac271099049c0dfc058e0612f08d06c30a0415
+[11-Dec-2024 04:15:13 Europe/Berlin] Failed with key 1aac271099049c0dfc058e0612f08d06c30a0415: Signature verification failed
+[11-Dec-2024 04:15:13 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[11-Dec-2024 04:15:13 Europe/Berlin] Token decoded successfully!
+[11-Dec-2024 04:15:13 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-11 05:15:14","iat":"2024-12-11 04:15:14"}
+[11-Dec-2024 04:16:41 Europe/Berlin] === New verification attempt ===
+[11-Dec-2024 04:16:41 Europe/Berlin] === Token Verification Details ===
+[11-Dec-2024 04:16:41 Europe/Berlin] Server time: 2024-12-11 04:16:41
+[11-Dec-2024 04:16:41 Europe/Berlin] Trying key: 1aac271099049c0dfc058e0612f08d06c30a0415
+[11-Dec-2024 04:16:41 Europe/Berlin] Failed with key 1aac271099049c0dfc058e0612f08d06c30a0415: Signature verification failed
+[11-Dec-2024 04:16:41 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[11-Dec-2024 04:16:41 Europe/Berlin] Token decoded successfully!
+[11-Dec-2024 04:16:41 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-11 05:16:42","iat":"2024-12-11 04:16:42"}
+[11-Dec-2024 04:17:04 Europe/Berlin] === New verification attempt ===
+[11-Dec-2024 04:17:04 Europe/Berlin] === Token Verification Details ===
+[11-Dec-2024 04:17:04 Europe/Berlin] Server time: 2024-12-11 04:17:04
+[11-Dec-2024 04:17:04 Europe/Berlin] Trying key: 1aac271099049c0dfc058e0612f08d06c30a0415
+[11-Dec-2024 04:17:04 Europe/Berlin] Failed with key 1aac271099049c0dfc058e0612f08d06c30a0415: Signature verification failed
+[11-Dec-2024 04:17:04 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[11-Dec-2024 04:17:04 Europe/Berlin] Token decoded successfully!
+[11-Dec-2024 04:17:04 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-11 05:17:06","iat":"2024-12-11 04:17:06"}
+[11-Dec-2024 04:17:10 Europe/Berlin] === New verification attempt ===
+[11-Dec-2024 04:17:10 Europe/Berlin] === Token Verification Details ===
+[11-Dec-2024 04:17:10 Europe/Berlin] Server time: 2024-12-11 04:17:10
+[11-Dec-2024 04:17:10 Europe/Berlin] Trying key: 1aac271099049c0dfc058e0612f08d06c30a0415
+[11-Dec-2024 04:17:10 Europe/Berlin] Failed with key 1aac271099049c0dfc058e0612f08d06c30a0415: Signature verification failed
+[11-Dec-2024 04:17:10 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[11-Dec-2024 04:17:10 Europe/Berlin] Token decoded successfully!
+[11-Dec-2024 04:17:10 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-11 05:17:12","iat":"2024-12-11 04:17:12"}
+[11-Dec-2024 04:17:48 Europe/Berlin] === New verification attempt ===
+[11-Dec-2024 04:17:48 Europe/Berlin] === Token Verification Details ===
+[11-Dec-2024 04:17:48 Europe/Berlin] Server time: 2024-12-11 04:17:48
+[11-Dec-2024 04:17:48 Europe/Berlin] Trying key: 1aac271099049c0dfc058e0612f08d06c30a0415
+[11-Dec-2024 04:17:48 Europe/Berlin] Failed with key 1aac271099049c0dfc058e0612f08d06c30a0415: Signature verification failed
+[11-Dec-2024 04:17:48 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[11-Dec-2024 04:17:48 Europe/Berlin] Token decoded successfully!
+[11-Dec-2024 04:17:48 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-11 05:17:49","iat":"2024-12-11 04:17:49"}
+[11-Dec-2024 04:18:58 Europe/Berlin] === New verification attempt ===
+[11-Dec-2024 04:18:58 Europe/Berlin] === Token Verification Details ===
+[11-Dec-2024 04:18:58 Europe/Berlin] Server time: 2024-12-11 04:18:58
+[11-Dec-2024 04:18:58 Europe/Berlin] Trying key: 1aac271099049c0dfc058e0612f08d06c30a0415
+[11-Dec-2024 04:18:58 Europe/Berlin] Failed with key 1aac271099049c0dfc058e0612f08d06c30a0415: Signature verification failed
+[11-Dec-2024 04:18:58 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[11-Dec-2024 04:18:58 Europe/Berlin] Token decoded successfully!
+[11-Dec-2024 04:18:58 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-11 05:19:00","iat":"2024-12-11 04:19:00"}
+[11-Dec-2024 04:20:41 Europe/Berlin] === New verification attempt ===
+[11-Dec-2024 04:20:41 Europe/Berlin] === Token Verification Details ===
+[11-Dec-2024 04:20:41 Europe/Berlin] Server time: 2024-12-11 04:20:41
+[11-Dec-2024 04:20:41 Europe/Berlin] Trying key: 1aac271099049c0dfc058e0612f08d06c30a0415
+[11-Dec-2024 04:20:41 Europe/Berlin] Failed with key 1aac271099049c0dfc058e0612f08d06c30a0415: Signature verification failed
+[11-Dec-2024 04:20:41 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[11-Dec-2024 04:20:41 Europe/Berlin] Token decoded successfully!
+[11-Dec-2024 04:20:41 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-11 05:20:42","iat":"2024-12-11 04:20:42"}
+[11-Dec-2024 04:22:35 Europe/Berlin] === New verification attempt ===
+[11-Dec-2024 04:22:35 Europe/Berlin] === Token Verification Details ===
+[11-Dec-2024 04:22:35 Europe/Berlin] Server time: 2024-12-11 04:22:35
+[11-Dec-2024 04:22:35 Europe/Berlin] Trying key: 1aac271099049c0dfc058e0612f08d06c30a0415
+[11-Dec-2024 04:22:35 Europe/Berlin] Failed with key 1aac271099049c0dfc058e0612f08d06c30a0415: Signature verification failed
+[11-Dec-2024 04:22:35 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[11-Dec-2024 04:22:35 Europe/Berlin] Token decoded successfully!
+[11-Dec-2024 04:22:35 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-11 05:22:37","iat":"2024-12-11 04:22:37"}
+[11-Dec-2024 05:15:31 Europe/Berlin] === New verification attempt ===
+[11-Dec-2024 05:15:31 Europe/Berlin] === Token Verification Details ===
+[11-Dec-2024 05:15:31 Europe/Berlin] Server time: 2024-12-11 05:15:31
+[11-Dec-2024 05:15:31 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[11-Dec-2024 05:15:31 Europe/Berlin] Token decoded successfully!
+[11-Dec-2024 05:15:31 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-11 06:15:32","iat":"2024-12-11 05:15:32"}
+[11-Dec-2024 05:30:04 Europe/Berlin] === New verification attempt ===
+[11-Dec-2024 05:30:04 Europe/Berlin] === Token Verification Details ===
+[11-Dec-2024 05:30:04 Europe/Berlin] Server time: 2024-12-11 05:30:04
+[11-Dec-2024 05:30:04 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[11-Dec-2024 05:30:04 Europe/Berlin] Token decoded successfully!
+[11-Dec-2024 05:30:04 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-11 06:30:05","iat":"2024-12-11 05:30:05"}
+[11-Dec-2024 05:33:38 Europe/Berlin] === New verification attempt ===
+[11-Dec-2024 05:33:39 Europe/Berlin] === Token Verification Details ===
+[11-Dec-2024 05:33:39 Europe/Berlin] Server time: 2024-12-11 05:33:39
+[11-Dec-2024 05:33:39 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[11-Dec-2024 05:33:39 Europe/Berlin] Token decoded successfully!
+[11-Dec-2024 05:33:39 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-11 06:33:40","iat":"2024-12-11 05:33:40"}
+[11-Dec-2024 06:22:41 Europe/Berlin] === New verification attempt ===
+[11-Dec-2024 06:22:42 Europe/Berlin] === Token Verification Details ===
+[11-Dec-2024 06:22:42 Europe/Berlin] Server time: 2024-12-11 06:22:42
+[11-Dec-2024 06:22:42 Europe/Berlin] Trying key: 1aac271099049c0dfc058e0612f08d06c30a0415
+[11-Dec-2024 06:22:42 Europe/Berlin] Failed with key 1aac271099049c0dfc058e0612f08d06c30a0415: Signature verification failed
+[11-Dec-2024 06:22:42 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[11-Dec-2024 06:22:42 Europe/Berlin] Token decoded successfully!
+[11-Dec-2024 06:22:42 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-11 07:22:42","iat":"2024-12-11 06:22:42"}
+[11-Dec-2024 06:27:32 Europe/Berlin] === New verification attempt ===
+[11-Dec-2024 06:27:32 Europe/Berlin] === Token Verification Details ===
+[11-Dec-2024 06:27:32 Europe/Berlin] Server time: 2024-12-11 06:27:32
+[11-Dec-2024 06:27:32 Europe/Berlin] Trying key: 1aac271099049c0dfc058e0612f08d06c30a0415
+[11-Dec-2024 06:27:32 Europe/Berlin] Failed with key 1aac271099049c0dfc058e0612f08d06c30a0415: Signature verification failed
+[11-Dec-2024 06:27:32 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[11-Dec-2024 06:27:32 Europe/Berlin] Token decoded successfully!
+[11-Dec-2024 06:27:32 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-11 07:27:33","iat":"2024-12-11 06:27:33"}
+[11-Dec-2024 07:57:20 Europe/Berlin] === New verification attempt ===
+[11-Dec-2024 07:57:21 Europe/Berlin] === Token Verification Details ===
+[11-Dec-2024 07:57:21 Europe/Berlin] Server time: 2024-12-11 07:57:21
+[11-Dec-2024 07:57:21 Europe/Berlin] Trying key: 1aac271099049c0dfc058e0612f08d06c30a0415
+[11-Dec-2024 07:57:21 Europe/Berlin] Failed with key 1aac271099049c0dfc058e0612f08d06c30a0415: Signature verification failed
+[11-Dec-2024 07:57:21 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[11-Dec-2024 07:57:21 Europe/Berlin] Token decoded successfully!
+[11-Dec-2024 07:57:21 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-11 08:57:20","iat":"2024-12-11 07:57:20"}
+[11-Dec-2024 08:20:20 Europe/Berlin] === New verification attempt ===
+[11-Dec-2024 08:20:20 Europe/Berlin] === Token Verification Details ===
+[11-Dec-2024 08:20:20 Europe/Berlin] Server time: 2024-12-11 08:20:20
+[11-Dec-2024 08:20:20 Europe/Berlin] Trying key: 1aac271099049c0dfc058e0612f08d06c30a0415
+[11-Dec-2024 08:20:20 Europe/Berlin] Failed with key 1aac271099049c0dfc058e0612f08d06c30a0415: Signature verification failed
+[11-Dec-2024 08:20:20 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[11-Dec-2024 08:20:20 Europe/Berlin] Token decoded successfully!
+[11-Dec-2024 08:20:20 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-11 09:20:21","iat":"2024-12-11 08:20:21"}
+[11-Dec-2024 10:35:27 Europe/Berlin] === New verification attempt ===
+[11-Dec-2024 10:35:28 Europe/Berlin] === Token Verification Details ===
+[11-Dec-2024 10:35:28 Europe/Berlin] Server time: 2024-12-11 10:35:28
+[11-Dec-2024 10:35:28 Europe/Berlin] Trying key: 1aac271099049c0dfc058e0612f08d06c30a0415
+[11-Dec-2024 10:35:28 Europe/Berlin] Failed with key 1aac271099049c0dfc058e0612f08d06c30a0415: Signature verification failed
+[11-Dec-2024 10:35:28 Europe/Berlin] Trying key: bd0ae14d28d16578b31c8be6c8fded34d5e1a1c1
+[11-Dec-2024 10:35:28 Europe/Berlin] Token decoded successfully!
+[11-Dec-2024 10:35:28 Europe/Berlin] Token claims: {"aud":"thinkspace-8a3a2","iss":"https:\/\/securetoken.google.com\/thinkspace-8a3a2","exp":"2024-12-11 11:35:28","iat":"2024-12-11 10:35:28"}
